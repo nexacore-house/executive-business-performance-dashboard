@@ -1,0 +1,121 @@
+ProductKey,ProductID,ProductName,Category,Subcategory,StandardPrice,StandardCost
+1,PRD-001,Paper Product 01,Office Supplies,Paper,51.33,32.95
+2,PRD-002,Stationery Product 02,Office Supplies,Stationery,32.81,20.81
+3,PRD-003,Filing Product 03,Office Supplies,Filing,37.65,24.34
+4,PRD-004,Paper Product 04,Office Supplies,Paper,39.14,27.01
+5,PRD-005,Stationery Product 05,Office Supplies,Stationery,27.68,18.3
+6,PRD-006,Filing Product 06,Office Supplies,Filing,8.09,5.35
+7,PRD-007,Paper Product 07,Office Supplies,Paper,37.93,25.44
+8,PRD-008,Stationery Product 08,Office Supplies,Stationery,55.61,34.77
+9,PRD-009,Filing Product 09,Office Supplies,Filing,33.38,21.6
+10,PRD-010,Paper Product 10,Office Supplies,Paper,29.26,19.88
+11,PRD-011,Stationery Product 11,Office Supplies,Stationery,62.9,40.59
+12,PRD-012,Filing Product 12,Office Supplies,Filing,59.47,38.5
+13,PRD-013,Paper Product 13,Office Supplies,Paper,36.69,25.93
+14,PRD-014,Stationery Product 14,Office Supplies,Stationery,56.25,38.41
+15,PRD-015,Filing Product 15,Office Supplies,Filing,15.35,10.41
+16,PRD-016,Paper Product 16,Office Supplies,Paper,69.27,47.64
+17,PRD-017,Stationery Product 17,Office Supplies,Stationery,24.23,14.65
+18,PRD-018,Filing Product 18,Office Supplies,Filing,61.85,40.75
+19,PRD-019,Paper Product 19,Office Supplies,Paper,19.43,12.21
+20,PRD-020,Stationery Product 20,Office Supplies,Stationery,64.84,42.15
+21,PRD-021,Filing Product 21,Office Supplies,Filing,36.06,25.07
+22,PRD-022,Paper Product 22,Office Supplies,Paper,69.25,44.34
+23,PRD-023,Stationery Product 23,Office Supplies,Stationery,32.98,21.41
+24,PRD-024,Filing Product 24,Office Supplies,Filing,47.9,33.82
+25,PRD-025,Paper Product 25,Office Supplies,Paper,56.69,36.86
+26,PRD-026,Stationery Product 26,Office Supplies,Stationery,15.33,10.36
+27,PRD-027,Filing Product 27,Office Supplies,Filing,10.23,6.77
+28,PRD-028,Paper Product 28,Office Supplies,Paper,64.56,44.15
+29,PRD-029,Stationery Product 29,Office Supplies,Stationery,63.02,40.82
+30,PRD-030,Filing Product 30,Office Supplies,Filing,39.91,26.76
+31,PRD-031,Accessories Product 01,Technology,Accessories,130.4,95.67
+32,PRD-032,Peripherals Product 02,Technology,Peripherals,162.36,118.53
+33,PRD-033,Networking Product 03,Technology,Networking,298.7,228.85
+34,PRD-034,Accessories Product 04,Technology,Accessories,174.2,135.69
+35,PRD-035,Peripherals Product 05,Technology,Peripherals,38.41,28.07
+36,PRD-036,Networking Product 06,Technology,Networking,111.22,85.14
+37,PRD-037,Accessories Product 07,Technology,Accessories,180.22,127.86
+38,PRD-038,Peripherals Product 08,Technology,Peripherals,55.4,42.45
+39,PRD-039,Networking Product 09,Technology,Networking,267.88,196.76
+40,PRD-040,Accessories Product 10,Technology,Accessories,95.46,68.82
+41,PRD-041,Peripherals Product 11,Technology,Peripherals,208.1,152.57
+42,PRD-042,Networking Product 12,Technology,Networking,109.72,83.56
+43,PRD-043,Accessories Product 13,Technology,Accessories,239.51,173.05
+44,PRD-044,Peripherals Product 14,Technology,Peripherals,136.41,97.92
+45,PRD-045,Networking Product 15,Technology,Networking,205.66,155.41
+46,PRD-046,Accessories Product 16,Technology,Accessories,145.96,104.2
+47,PRD-047,Peripherals Product 17,Technology,Peripherals,93.21,67.87
+48,PRD-048,Networking Product 18,Technology,Networking,47.18,35.53
+49,PRD-049,Accessories Product 19,Technology,Accessories,182.76,130.15
+50,PRD-050,Peripherals Product 20,Technology,Peripherals,124.02,90.61
+51,PRD-051,Networking Product 21,Technology,Networking,85.83,61.77
+52,PRD-052,Accessories Product 22,Technology,Accessories,33.77,24.34
+53,PRD-053,Peripherals Product 23,Technology,Peripherals,185.95,137.52
+54,PRD-054,Networking Product 24,Technology,Networking,158.15,121.15
+55,PRD-055,Accessories Product 25,Technology,Accessories,131.44,96.41
+56,PRD-056,Peripherals Product 26,Technology,Peripherals,174.7,128.51
+57,PRD-057,Networking Product 27,Technology,Networking,271.19,196.06
+58,PRD-058,Accessories Product 28,Technology,Accessories,59.09,45.87
+59,PRD-059,Peripherals Product 29,Technology,Peripherals,45.48,33.39
+60,PRD-060,Networking Product 30,Technology,Networking,240.35,189.15
+61,PRD-061,Furniture Product 01,Workplace Equipment,Furniture,485.97,303.31
+62,PRD-062,Storage Product 02,Workplace Equipment,Storage,378.1,239.13
+63,PRD-063,Safety Equipment Product 03,Workplace Equipment,Safety Equipment,532.75,319.11
+64,PRD-064,Furniture Product 04,Workplace Equipment,Furniture,261.05,157.09
+65,PRD-065,Storage Product 05,Workplace Equipment,Storage,128.66,81.09
+66,PRD-066,Safety Equipment Product 06,Workplace Equipment,Safety Equipment,289.91,168.13
+67,PRD-067,Furniture Product 07,Workplace Equipment,Furniture,163.56,96.31
+68,PRD-068,Storage Product 08,Workplace Equipment,Storage,431.58,263.49
+69,PRD-069,Safety Equipment Product 09,Workplace Equipment,Safety Equipment,404.14,240.4
+70,PRD-070,Furniture Product 10,Workplace Equipment,Furniture,157.55,94.93
+71,PRD-071,Storage Product 11,Workplace Equipment,Storage,299.17,178.51
+72,PRD-072,Safety Equipment Product 12,Workplace Equipment,Safety Equipment,245.84,151.04
+73,PRD-073,Furniture Product 13,Workplace Equipment,Furniture,376.91,224.59
+74,PRD-074,Storage Product 14,Workplace Equipment,Storage,73.39,45.7
+75,PRD-075,Safety Equipment Product 15,Workplace Equipment,Safety Equipment,159.49,99.23
+76,PRD-076,Furniture Product 16,Workplace Equipment,Furniture,47.12,28.69
+77,PRD-077,Storage Product 17,Workplace Equipment,Storage,323.48,186.55
+78,PRD-078,Safety Equipment Product 18,Workplace Equipment,Safety Equipment,423.99,272.22
+79,PRD-079,Furniture Product 19,Workplace Equipment,Furniture,481.54,300.83
+80,PRD-080,Storage Product 20,Workplace Equipment,Storage,331.34,216.43
+81,PRD-081,Safety Equipment Product 21,Workplace Equipment,Safety Equipment,306.38,187.41
+82,PRD-082,Furniture Product 22,Workplace Equipment,Furniture,421.54,247.26
+83,PRD-083,Storage Product 23,Workplace Equipment,Storage,377.3,238.13
+84,PRD-084,Safety Equipment Product 24,Workplace Equipment,Safety Equipment,96.83,63.63
+85,PRD-085,Furniture Product 25,Workplace Equipment,Furniture,658.29,376.64
+86,PRD-086,Storage Product 26,Workplace Equipment,Storage,45.82,27.55
+87,PRD-087,Safety Equipment Product 27,Workplace Equipment,Safety Equipment,259.37,153.14
+88,PRD-088,Furniture Product 28,Workplace Equipment,Furniture,360.84,224.59
+89,PRD-089,Storage Product 29,Workplace Equipment,Storage,511.48,323.43
+90,PRD-090,Safety Equipment Product 30,Workplace Equipment,Safety Equipment,488.02,292.81
+91,PRD-091,Cleaning Product 01,Facilities,Cleaning,15.54,9.44
+92,PRD-092,Kitchen Product 02,Facilities,Kitchen,136.05,76.65
+93,PRD-093,Maintenance Product 03,Facilities,Maintenance,102.73,60.53
+94,PRD-094,Cleaning Product 04,Facilities,Cleaning,104.7,64.34
+95,PRD-095,Kitchen Product 05,Facilities,Kitchen,22.5,12.31
+96,PRD-096,Maintenance Product 06,Facilities,Maintenance,32.39,18.81
+97,PRD-097,Cleaning Product 07,Facilities,Cleaning,85.97,51.33
+98,PRD-098,Kitchen Product 08,Facilities,Kitchen,100.01,62.11
+99,PRD-099,Maintenance Product 09,Facilities,Maintenance,136.84,83.41
+100,PRD-100,Cleaning Product 10,Facilities,Cleaning,140.28,79.35
+101,PRD-101,Kitchen Product 11,Facilities,Kitchen,59.27,35.48
+102,PRD-102,Maintenance Product 12,Facilities,Maintenance,73.0,43.37
+103,PRD-103,Cleaning Product 13,Facilities,Cleaning,32.8,18.37
+104,PRD-104,Kitchen Product 14,Facilities,Kitchen,141.43,83.51
+105,PRD-105,Maintenance Product 15,Facilities,Maintenance,127.12,77.71
+106,PRD-106,Cleaning Product 16,Facilities,Cleaning,101.07,58.97
+107,PRD-107,Kitchen Product 17,Facilities,Kitchen,123.44,72.26
+108,PRD-108,Maintenance Product 18,Facilities,Maintenance,106.53,65.31
+109,PRD-109,Cleaning Product 19,Facilities,Cleaning,145.32,88.44
+110,PRD-110,Kitchen Product 20,Facilities,Kitchen,96.51,59.21
+111,PRD-111,Maintenance Product 21,Facilities,Maintenance,118.95,67.92
+112,PRD-112,Cleaning Product 22,Facilities,Cleaning,46.37,26.0
+113,PRD-113,Kitchen Product 23,Facilities,Kitchen,57.11,32.53
+114,PRD-114,Maintenance Product 24,Facilities,Maintenance,117.81,67.36
+115,PRD-115,Cleaning Product 25,Facilities,Cleaning,143.9,77.59
+116,PRD-116,Kitchen Product 26,Facilities,Kitchen,18.93,11.02
+117,PRD-117,Maintenance Product 27,Facilities,Maintenance,87.88,45.74
+118,PRD-118,Cleaning Product 28,Facilities,Cleaning,139.89,74.46
+119,PRD-119,Kitchen Product 29,Facilities,Kitchen,57.68,32.11
+120,PRD-120,Maintenance Product 30,Facilities,Maintenance,28.99,16.38

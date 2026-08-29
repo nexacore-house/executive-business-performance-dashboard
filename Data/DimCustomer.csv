@@ -1,0 +1,1201 @@
+CustomerKey,CustomerID,CustomerName,CustomerSegment,RegionKey,CustomerSince,Industry
+1,CUST-0001,Apex Customer 0001,SME,4,2022-01-10,Retail
+2,CUST-0002,Apex Customer 0002,SME,4,2021-07-22,Manufacturing
+3,CUST-0003,Apex Customer 0003,SME,6,2021-06-01,Education
+4,CUST-0004,Apex Customer 0004,SME,5,2020-09-07,Healthcare
+5,CUST-0005,Apex Customer 0005,SME,3,2022-04-28,Professional Services
+6,CUST-0006,Apex Customer 0006,Mid-Market,5,2019-04-10,Professional Services
+7,CUST-0007,Apex Customer 0007,SME,1,2022-04-12,Retail
+8,CUST-0008,Apex Customer 0008,SME,2,2023-12-23,Healthcare
+9,CUST-0009,Apex Customer 0009,SME,3,2023-11-01,Education
+10,CUST-0010,Apex Customer 0010,SME,5,2021-11-16,Manufacturing
+11,CUST-0011,Apex Customer 0011,SME,3,2020-01-02,Manufacturing
+12,CUST-0012,Apex Customer 0012,Mid-Market,4,2023-12-03,Manufacturing
+13,CUST-0013,Apex Customer 0013,SME,3,2019-11-28,Education
+14,CUST-0014,Apex Customer 0014,Mid-Market,4,2021-09-06,Retail
+15,CUST-0015,Apex Customer 0015,SME,6,2023-04-01,Hospitality
+16,CUST-0016,Apex Customer 0016,Mid-Market,3,2020-04-05,Professional Services
+17,CUST-0017,Apex Customer 0017,SME,2,2019-09-14,Construction
+18,CUST-0018,Apex Customer 0018,SME,1,2020-04-23,Retail
+19,CUST-0019,Apex Customer 0019,SME,5,2023-02-16,Construction
+20,CUST-0020,Apex Customer 0020,SME,2,2022-05-17,Education
+21,CUST-0021,Apex Customer 0021,SME,6,2022-09-16,Professional Services
+22,CUST-0022,Apex Customer 0022,SME,4,2022-11-28,Hospitality
+23,CUST-0023,Apex Customer 0023,Enterprise,4,2022-11-13,Education
+24,CUST-0024,Apex Customer 0024,SME,1,2023-01-20,Construction
+25,CUST-0025,Apex Customer 0025,SME,5,2021-09-13,Retail
+26,CUST-0026,Apex Customer 0026,SME,2,2021-03-17,Healthcare
+27,CUST-0027,Apex Customer 0027,SME,4,2021-12-02,Manufacturing
+28,CUST-0028,Apex Customer 0028,Mid-Market,4,2022-04-03,Manufacturing
+29,CUST-0029,Apex Customer 0029,SME,2,2020-04-26,Healthcare
+30,CUST-0030,Apex Customer 0030,Mid-Market,2,2021-01-17,Healthcare
+31,CUST-0031,Apex Customer 0031,SME,4,2023-06-21,Manufacturing
+32,CUST-0032,Apex Customer 0032,SME,5,2019-06-13,Healthcare
+33,CUST-0033,Apex Customer 0033,SME,2,2019-07-28,Professional Services
+34,CUST-0034,Apex Customer 0034,SME,2,2022-07-19,Hospitality
+35,CUST-0035,Apex Customer 0035,SME,5,2022-01-02,Professional Services
+36,CUST-0036,Apex Customer 0036,SME,2,2023-03-03,Education
+37,CUST-0037,Apex Customer 0037,Mid-Market,5,2022-02-03,Hospitality
+38,CUST-0038,Apex Customer 0038,Enterprise,2,2023-12-16,Hospitality
+39,CUST-0039,Apex Customer 0039,Mid-Market,4,2021-11-03,Retail
+40,CUST-0040,Apex Customer 0040,SME,4,2023-12-12,Construction
+41,CUST-0041,Apex Customer 0041,SME,1,2019-02-10,Education
+42,CUST-0042,Apex Customer 0042,Mid-Market,5,2023-12-21,Professional Services
+43,CUST-0043,Apex Customer 0043,SME,5,2020-05-02,Construction
+44,CUST-0044,Apex Customer 0044,SME,2,2020-04-22,Healthcare
+45,CUST-0045,Apex Customer 0045,SME,1,2022-08-05,Manufacturing
+46,CUST-0046,Apex Customer 0046,SME,4,2023-12-08,Construction
+47,CUST-0047,Apex Customer 0047,SME,2,2020-11-28,Healthcare
+48,CUST-0048,Apex Customer 0048,SME,1,2022-01-01,Construction
+49,CUST-0049,Apex Customer 0049,SME,1,2021-05-23,Hospitality
+50,CUST-0050,Apex Customer 0050,SME,3,2022-10-21,Construction
+51,CUST-0051,Apex Customer 0051,Enterprise,6,2022-07-14,Education
+52,CUST-0052,Apex Customer 0052,Mid-Market,3,2023-08-26,Education
+53,CUST-0053,Apex Customer 0053,SME,6,2020-08-10,Hospitality
+54,CUST-0054,Apex Customer 0054,SME,3,2022-04-27,Healthcare
+55,CUST-0055,Apex Customer 0055,Mid-Market,3,2020-02-01,Construction
+56,CUST-0056,Apex Customer 0056,SME,6,2021-06-16,Retail
+57,CUST-0057,Apex Customer 0057,SME,5,2023-06-01,Professional Services
+58,CUST-0058,Apex Customer 0058,Mid-Market,2,2019-06-21,Retail
+59,CUST-0059,Apex Customer 0059,Mid-Market,1,2020-10-15,Manufacturing
+60,CUST-0060,Apex Customer 0060,Enterprise,2,2019-06-18,Professional Services
+61,CUST-0061,Apex Customer 0061,SME,1,2022-09-03,Education
+62,CUST-0062,Apex Customer 0062,Enterprise,2,2023-04-07,Manufacturing
+63,CUST-0063,Apex Customer 0063,SME,1,2022-02-09,Manufacturing
+64,CUST-0064,Apex Customer 0064,SME,1,2021-03-13,Manufacturing
+65,CUST-0065,Apex Customer 0065,SME,3,2021-07-10,Manufacturing
+66,CUST-0066,Apex Customer 0066,SME,6,2023-08-10,Professional Services
+67,CUST-0067,Apex Customer 0067,SME,1,2020-03-06,Healthcare
+68,CUST-0068,Apex Customer 0068,SME,6,2022-02-19,Healthcare
+69,CUST-0069,Apex Customer 0069,Mid-Market,1,2021-03-28,Construction
+70,CUST-0070,Apex Customer 0070,SME,2,2021-08-07,Healthcare
+71,CUST-0071,Apex Customer 0071,SME,1,2021-04-21,Retail
+72,CUST-0072,Apex Customer 0072,Enterprise,1,2022-01-02,Healthcare
+73,CUST-0073,Apex Customer 0073,SME,2,2020-09-12,Manufacturing
+74,CUST-0074,Apex Customer 0074,SME,1,2022-06-20,Healthcare
+75,CUST-0075,Apex Customer 0075,Enterprise,5,2020-09-05,Professional Services
+76,CUST-0076,Apex Customer 0076,Mid-Market,3,2023-01-14,Manufacturing
+77,CUST-0077,Apex Customer 0077,Enterprise,1,2020-01-11,Education
+78,CUST-0078,Apex Customer 0078,Enterprise,1,2022-03-20,Hospitality
+79,CUST-0079,Apex Customer 0079,Mid-Market,1,2021-11-02,Education
+80,CUST-0080,Apex Customer 0080,Mid-Market,5,2020-04-25,Retail
+81,CUST-0081,Apex Customer 0081,SME,4,2021-01-04,Retail
+82,CUST-0082,Apex Customer 0082,SME,4,2023-05-17,Construction
+83,CUST-0083,Apex Customer 0083,SME,1,2022-12-07,Healthcare
+84,CUST-0084,Apex Customer 0084,Enterprise,5,2023-03-25,Manufacturing
+85,CUST-0085,Apex Customer 0085,Mid-Market,1,2023-04-05,Construction
+86,CUST-0086,Apex Customer 0086,SME,2,2022-09-21,Professional Services
+87,CUST-0087,Apex Customer 0087,Enterprise,3,2021-05-22,Construction
+88,CUST-0088,Apex Customer 0088,SME,1,2022-11-04,Professional Services
+89,CUST-0089,Apex Customer 0089,SME,2,2019-10-28,Construction
+90,CUST-0090,Apex Customer 0090,SME,4,2021-09-26,Manufacturing
+91,CUST-0091,Apex Customer 0091,SME,2,2022-12-24,Retail
+92,CUST-0092,Apex Customer 0092,SME,6,2022-03-14,Professional Services
+93,CUST-0093,Apex Customer 0093,Mid-Market,2,2022-10-13,Professional Services
+94,CUST-0094,Apex Customer 0094,SME,4,2023-01-06,Retail
+95,CUST-0095,Apex Customer 0095,SME,1,2021-12-24,Education
+96,CUST-0096,Apex Customer 0096,Enterprise,1,2022-01-02,Retail
+97,CUST-0097,Apex Customer 0097,Mid-Market,3,2020-07-22,Retail
+98,CUST-0098,Apex Customer 0098,Mid-Market,2,2021-11-25,Retail
+99,CUST-0099,Apex Customer 0099,SME,4,2021-11-20,Retail
+100,CUST-0100,Apex Customer 0100,Enterprise,6,2020-05-07,Construction
+101,CUST-0101,Apex Customer 0101,SME,4,2020-04-02,Construction
+102,CUST-0102,Apex Customer 0102,SME,6,2022-12-03,Healthcare
+103,CUST-0103,Apex Customer 0103,Mid-Market,4,2022-12-01,Retail
+104,CUST-0104,Apex Customer 0104,Mid-Market,2,2019-07-22,Retail
+105,CUST-0105,Apex Customer 0105,SME,3,2023-09-05,Construction
+106,CUST-0106,Apex Customer 0106,SME,1,2022-06-01,Healthcare
+107,CUST-0107,Apex Customer 0107,SME,5,2023-11-05,Education
+108,CUST-0108,Apex Customer 0108,Mid-Market,1,2022-09-02,Professional Services
+109,CUST-0109,Apex Customer 0109,Enterprise,4,2020-08-01,Professional Services
+110,CUST-0110,Apex Customer 0110,SME,4,2021-07-01,Retail
+111,CUST-0111,Apex Customer 0111,Enterprise,2,2020-04-05,Education
+112,CUST-0112,Apex Customer 0112,Mid-Market,3,2021-01-09,Hospitality
+113,CUST-0113,Apex Customer 0113,Mid-Market,1,2020-11-13,Retail
+114,CUST-0114,Apex Customer 0114,SME,6,2022-10-06,Hospitality
+115,CUST-0115,Apex Customer 0115,SME,1,2019-03-19,Education
+116,CUST-0116,Apex Customer 0116,SME,5,2022-04-02,Construction
+117,CUST-0117,Apex Customer 0117,Mid-Market,4,2019-11-07,Retail
+118,CUST-0118,Apex Customer 0118,SME,5,2022-03-01,Hospitality
+119,CUST-0119,Apex Customer 0119,SME,1,2022-01-05,Hospitality
+120,CUST-0120,Apex Customer 0120,SME,6,2021-03-20,Healthcare
+121,CUST-0121,Apex Customer 0121,SME,5,2022-03-07,Hospitality
+122,CUST-0122,Apex Customer 0122,SME,6,2021-09-10,Hospitality
+123,CUST-0123,Apex Customer 0123,SME,1,2020-12-12,Professional Services
+124,CUST-0124,Apex Customer 0124,Enterprise,3,2023-11-14,Retail
+125,CUST-0125,Apex Customer 0125,SME,5,2021-09-11,Healthcare
+126,CUST-0126,Apex Customer 0126,SME,5,2021-04-17,Retail
+127,CUST-0127,Apex Customer 0127,SME,6,2022-02-28,Healthcare
+128,CUST-0128,Apex Customer 0128,Enterprise,1,2023-09-05,Professional Services
+129,CUST-0129,Apex Customer 0129,SME,2,2021-04-16,Hospitality
+130,CUST-0130,Apex Customer 0130,Mid-Market,5,2023-10-14,Education
+131,CUST-0131,Apex Customer 0131,Mid-Market,1,2020-11-17,Healthcare
+132,CUST-0132,Apex Customer 0132,Mid-Market,2,2023-10-07,Education
+133,CUST-0133,Apex Customer 0133,SME,4,2022-03-07,Hospitality
+134,CUST-0134,Apex Customer 0134,SME,4,2022-09-17,Hospitality
+135,CUST-0135,Apex Customer 0135,SME,2,2023-01-06,Professional Services
+136,CUST-0136,Apex Customer 0136,SME,1,2019-03-05,Hospitality
+137,CUST-0137,Apex Customer 0137,Mid-Market,4,2022-07-25,Construction
+138,CUST-0138,Apex Customer 0138,SME,2,2022-12-16,Education
+139,CUST-0139,Apex Customer 0139,SME,3,2021-02-12,Education
+140,CUST-0140,Apex Customer 0140,SME,3,2021-09-08,Retail
+141,CUST-0141,Apex Customer 0141,SME,1,2021-11-01,Construction
+142,CUST-0142,Apex Customer 0142,Mid-Market,1,2019-11-13,Professional Services
+143,CUST-0143,Apex Customer 0143,Mid-Market,6,2020-06-23,Construction
+144,CUST-0144,Apex Customer 0144,Mid-Market,6,2020-03-11,Healthcare
+145,CUST-0145,Apex Customer 0145,Mid-Market,3,2022-11-28,Retail
+146,CUST-0146,Apex Customer 0146,Mid-Market,6,2019-06-14,Education
+147,CUST-0147,Apex Customer 0147,SME,1,2023-06-21,Construction
+148,CUST-0148,Apex Customer 0148,Mid-Market,2,2023-08-28,Manufacturing
+149,CUST-0149,Apex Customer 0149,SME,4,2019-05-14,Construction
+150,CUST-0150,Apex Customer 0150,Mid-Market,5,2022-09-22,Retail
+151,CUST-0151,Apex Customer 0151,SME,4,2022-04-22,Construction
+152,CUST-0152,Apex Customer 0152,Mid-Market,5,2022-02-03,Construction
+153,CUST-0153,Apex Customer 0153,SME,2,2022-01-11,Education
+154,CUST-0154,Apex Customer 0154,Mid-Market,1,2022-09-05,Hospitality
+155,CUST-0155,Apex Customer 0155,SME,1,2023-06-14,Education
+156,CUST-0156,Apex Customer 0156,Mid-Market,2,2023-02-19,Professional Services
+157,CUST-0157,Apex Customer 0157,Mid-Market,3,2022-07-20,Construction
+158,CUST-0158,Apex Customer 0158,SME,3,2021-09-17,Manufacturing
+159,CUST-0159,Apex Customer 0159,SME,1,2021-12-02,Manufacturing
+160,CUST-0160,Apex Customer 0160,SME,5,2023-06-04,Healthcare
+161,CUST-0161,Apex Customer 0161,SME,6,2021-06-25,Hospitality
+162,CUST-0162,Apex Customer 0162,SME,1,2023-11-20,Education
+163,CUST-0163,Apex Customer 0163,SME,2,2023-01-06,Construction
+164,CUST-0164,Apex Customer 0164,SME,4,2019-05-28,Education
+165,CUST-0165,Apex Customer 0165,SME,3,2022-05-07,Retail
+166,CUST-0166,Apex Customer 0166,SME,1,2020-03-10,Hospitality
+167,CUST-0167,Apex Customer 0167,SME,3,2023-04-08,Retail
+168,CUST-0168,Apex Customer 0168,SME,6,2022-07-16,Hospitality
+169,CUST-0169,Apex Customer 0169,Mid-Market,5,2020-07-28,Education
+170,CUST-0170,Apex Customer 0170,SME,3,2020-09-02,Professional Services
+171,CUST-0171,Apex Customer 0171,SME,4,2020-02-24,Construction
+172,CUST-0172,Apex Customer 0172,Mid-Market,5,2019-11-09,Construction
+173,CUST-0173,Apex Customer 0173,SME,6,2022-08-03,Construction
+174,CUST-0174,Apex Customer 0174,SME,3,2020-03-10,Hospitality
+175,CUST-0175,Apex Customer 0175,SME,1,2023-10-09,Hospitality
+176,CUST-0176,Apex Customer 0176,SME,6,2021-07-02,Healthcare
+177,CUST-0177,Apex Customer 0177,Mid-Market,1,2022-08-01,Education
+178,CUST-0178,Apex Customer 0178,SME,5,2023-01-21,Professional Services
+179,CUST-0179,Apex Customer 0179,SME,5,2021-10-17,Healthcare
+180,CUST-0180,Apex Customer 0180,Mid-Market,1,2021-08-13,Healthcare
+181,CUST-0181,Apex Customer 0181,Mid-Market,4,2020-10-21,Manufacturing
+182,CUST-0182,Apex Customer 0182,SME,2,2020-02-26,Hospitality
+183,CUST-0183,Apex Customer 0183,Mid-Market,4,2023-09-21,Healthcare
+184,CUST-0184,Apex Customer 0184,Mid-Market,4,2020-03-21,Hospitality
+185,CUST-0185,Apex Customer 0185,SME,2,2023-01-13,Professional Services
+186,CUST-0186,Apex Customer 0186,SME,4,2023-11-13,Professional Services
+187,CUST-0187,Apex Customer 0187,SME,5,2020-09-05,Manufacturing
+188,CUST-0188,Apex Customer 0188,SME,5,2021-03-14,Professional Services
+189,CUST-0189,Apex Customer 0189,SME,5,2020-07-06,Professional Services
+190,CUST-0190,Apex Customer 0190,Mid-Market,1,2022-03-22,Manufacturing
+191,CUST-0191,Apex Customer 0191,Enterprise,2,2021-03-27,Retail
+192,CUST-0192,Apex Customer 0192,SME,5,2020-05-26,Hospitality
+193,CUST-0193,Apex Customer 0193,SME,4,2023-04-19,Manufacturing
+194,CUST-0194,Apex Customer 0194,SME,2,2020-12-01,Manufacturing
+195,CUST-0195,Apex Customer 0195,SME,4,2022-12-17,Construction
+196,CUST-0196,Apex Customer 0196,Mid-Market,1,2020-03-17,Manufacturing
+197,CUST-0197,Apex Customer 0197,SME,2,2023-04-08,Retail
+198,CUST-0198,Apex Customer 0198,SME,3,2020-07-14,Hospitality
+199,CUST-0199,Apex Customer 0199,SME,4,2021-02-21,Education
+200,CUST-0200,Apex Customer 0200,SME,5,2021-06-20,Professional Services
+201,CUST-0201,Apex Customer 0201,SME,1,2019-02-13,Professional Services
+202,CUST-0202,Apex Customer 0202,SME,4,2021-06-03,Retail
+203,CUST-0203,Apex Customer 0203,Enterprise,3,2022-12-08,Healthcare
+204,CUST-0204,Apex Customer 0204,SME,2,2022-07-05,Manufacturing
+205,CUST-0205,Apex Customer 0205,SME,1,2022-04-14,Manufacturing
+206,CUST-0206,Apex Customer 0206,SME,1,2023-11-11,Construction
+207,CUST-0207,Apex Customer 0207,SME,4,2020-09-01,Professional Services
+208,CUST-0208,Apex Customer 0208,Mid-Market,5,2022-11-21,Hospitality
+209,CUST-0209,Apex Customer 0209,SME,2,2022-06-25,Professional Services
+210,CUST-0210,Apex Customer 0210,SME,5,2021-10-07,Retail
+211,CUST-0211,Apex Customer 0211,SME,2,2022-09-26,Retail
+212,CUST-0212,Apex Customer 0212,SME,2,2022-09-17,Hospitality
+213,CUST-0213,Apex Customer 0213,SME,5,2022-09-05,Manufacturing
+214,CUST-0214,Apex Customer 0214,SME,1,2020-11-02,Healthcare
+215,CUST-0215,Apex Customer 0215,Mid-Market,1,2022-03-13,Construction
+216,CUST-0216,Apex Customer 0216,SME,5,2022-09-01,Professional Services
+217,CUST-0217,Apex Customer 0217,SME,4,2021-02-23,Professional Services
+218,CUST-0218,Apex Customer 0218,SME,6,2021-04-18,Education
+219,CUST-0219,Apex Customer 0219,SME,4,2021-05-23,Education
+220,CUST-0220,Apex Customer 0220,SME,5,2022-03-25,Education
+221,CUST-0221,Apex Customer 0221,Mid-Market,3,2020-04-11,Hospitality
+222,CUST-0222,Apex Customer 0222,Mid-Market,1,2023-05-24,Healthcare
+223,CUST-0223,Apex Customer 0223,Mid-Market,1,2021-02-07,Manufacturing
+224,CUST-0224,Apex Customer 0224,SME,3,2023-09-13,Construction
+225,CUST-0225,Apex Customer 0225,SME,4,2023-07-27,Hospitality
+226,CUST-0226,Apex Customer 0226,SME,2,2022-03-22,Retail
+227,CUST-0227,Apex Customer 0227,SME,5,2023-03-18,Manufacturing
+228,CUST-0228,Apex Customer 0228,Mid-Market,2,2023-02-06,Education
+229,CUST-0229,Apex Customer 0229,Mid-Market,3,2022-07-09,Retail
+230,CUST-0230,Apex Customer 0230,SME,1,2022-01-27,Education
+231,CUST-0231,Apex Customer 0231,Mid-Market,5,2019-11-07,Education
+232,CUST-0232,Apex Customer 0232,SME,1,2022-11-16,Hospitality
+233,CUST-0233,Apex Customer 0233,SME,2,2022-02-03,Education
+234,CUST-0234,Apex Customer 0234,SME,3,2021-10-11,Hospitality
+235,CUST-0235,Apex Customer 0235,Mid-Market,6,2023-02-02,Healthcare
+236,CUST-0236,Apex Customer 0236,SME,1,2022-02-13,Healthcare
+237,CUST-0237,Apex Customer 0237,Mid-Market,4,2022-05-08,Professional Services
+238,CUST-0238,Apex Customer 0238,SME,1,2020-08-11,Hospitality
+239,CUST-0239,Apex Customer 0239,SME,6,2021-05-11,Manufacturing
+240,CUST-0240,Apex Customer 0240,SME,1,2019-09-23,Education
+241,CUST-0241,Apex Customer 0241,Mid-Market,4,2023-07-14,Professional Services
+242,CUST-0242,Apex Customer 0242,SME,2,2019-03-06,Construction
+243,CUST-0243,Apex Customer 0243,SME,1,2020-02-11,Construction
+244,CUST-0244,Apex Customer 0244,Mid-Market,6,2021-05-13,Retail
+245,CUST-0245,Apex Customer 0245,SME,1,2022-12-27,Education
+246,CUST-0246,Apex Customer 0246,Enterprise,5,2023-04-04,Healthcare
+247,CUST-0247,Apex Customer 0247,Mid-Market,5,2021-07-16,Healthcare
+248,CUST-0248,Apex Customer 0248,SME,6,2023-10-25,Hospitality
+249,CUST-0249,Apex Customer 0249,Mid-Market,5,2023-07-21,Hospitality
+250,CUST-0250,Apex Customer 0250,SME,5,2021-07-03,Education
+251,CUST-0251,Apex Customer 0251,SME,1,2023-04-08,Hospitality
+252,CUST-0252,Apex Customer 0252,SME,3,2021-08-17,Retail
+253,CUST-0253,Apex Customer 0253,SME,4,2021-03-20,Retail
+254,CUST-0254,Apex Customer 0254,Enterprise,3,2020-08-04,Manufacturing
+255,CUST-0255,Apex Customer 0255,SME,5,2020-11-06,Hospitality
+256,CUST-0256,Apex Customer 0256,Mid-Market,6,2022-06-26,Hospitality
+257,CUST-0257,Apex Customer 0257,Enterprise,1,2023-03-11,Retail
+258,CUST-0258,Apex Customer 0258,SME,1,2022-11-04,Manufacturing
+259,CUST-0259,Apex Customer 0259,SME,1,2020-10-05,Hospitality
+260,CUST-0260,Apex Customer 0260,SME,4,2019-01-14,Hospitality
+261,CUST-0261,Apex Customer 0261,SME,4,2023-09-16,Construction
+262,CUST-0262,Apex Customer 0262,Enterprise,1,2019-02-25,Hospitality
+263,CUST-0263,Apex Customer 0263,SME,1,2019-11-03,Professional Services
+264,CUST-0264,Apex Customer 0264,SME,1,2021-07-13,Construction
+265,CUST-0265,Apex Customer 0265,SME,5,2022-04-08,Professional Services
+266,CUST-0266,Apex Customer 0266,SME,5,2021-09-24,Retail
+267,CUST-0267,Apex Customer 0267,Mid-Market,6,2021-03-10,Retail
+268,CUST-0268,Apex Customer 0268,Mid-Market,5,2023-04-08,Retail
+269,CUST-0269,Apex Customer 0269,Mid-Market,5,2023-07-26,Education
+270,CUST-0270,Apex Customer 0270,Mid-Market,3,2020-04-07,Education
+271,CUST-0271,Apex Customer 0271,Mid-Market,3,2022-10-12,Retail
+272,CUST-0272,Apex Customer 0272,SME,3,2019-12-09,Healthcare
+273,CUST-0273,Apex Customer 0273,SME,5,2023-06-04,Construction
+274,CUST-0274,Apex Customer 0274,SME,4,2022-08-14,Retail
+275,CUST-0275,Apex Customer 0275,Enterprise,1,2021-05-18,Professional Services
+276,CUST-0276,Apex Customer 0276,Enterprise,5,2023-12-01,Construction
+277,CUST-0277,Apex Customer 0277,Enterprise,2,2022-10-11,Professional Services
+278,CUST-0278,Apex Customer 0278,SME,1,2019-01-08,Hospitality
+279,CUST-0279,Apex Customer 0279,SME,5,2023-08-27,Education
+280,CUST-0280,Apex Customer 0280,Mid-Market,3,2023-06-27,Professional Services
+281,CUST-0281,Apex Customer 0281,SME,1,2019-05-14,Professional Services
+282,CUST-0282,Apex Customer 0282,SME,1,2021-09-18,Education
+283,CUST-0283,Apex Customer 0283,Mid-Market,3,2023-10-07,Professional Services
+284,CUST-0284,Apex Customer 0284,SME,2,2022-04-27,Construction
+285,CUST-0285,Apex Customer 0285,SME,1,2022-08-11,Manufacturing
+286,CUST-0286,Apex Customer 0286,Mid-Market,1,2021-10-27,Healthcare
+287,CUST-0287,Apex Customer 0287,SME,2,2022-05-25,Manufacturing
+288,CUST-0288,Apex Customer 0288,SME,2,2021-06-20,Construction
+289,CUST-0289,Apex Customer 0289,SME,5,2022-05-16,Professional Services
+290,CUST-0290,Apex Customer 0290,Mid-Market,1,2023-12-21,Hospitality
+291,CUST-0291,Apex Customer 0291,Mid-Market,5,2022-05-21,Healthcare
+292,CUST-0292,Apex Customer 0292,SME,2,2020-07-16,Professional Services
+293,CUST-0293,Apex Customer 0293,Mid-Market,5,2020-11-15,Hospitality
+294,CUST-0294,Apex Customer 0294,SME,4,2021-08-28,Healthcare
+295,CUST-0295,Apex Customer 0295,SME,1,2019-02-09,Retail
+296,CUST-0296,Apex Customer 0296,SME,5,2022-12-17,Construction
+297,CUST-0297,Apex Customer 0297,Mid-Market,2,2019-12-15,Retail
+298,CUST-0298,Apex Customer 0298,Enterprise,5,2023-07-25,Education
+299,CUST-0299,Apex Customer 0299,SME,1,2019-12-20,Retail
+300,CUST-0300,Apex Customer 0300,SME,6,2019-12-24,Hospitality
+301,CUST-0301,Apex Customer 0301,SME,4,2020-01-19,Construction
+302,CUST-0302,Apex Customer 0302,SME,1,2023-03-12,Hospitality
+303,CUST-0303,Apex Customer 0303,SME,1,2021-11-15,Professional Services
+304,CUST-0304,Apex Customer 0304,Enterprise,4,2020-05-19,Retail
+305,CUST-0305,Apex Customer 0305,Enterprise,5,2023-03-18,Retail
+306,CUST-0306,Apex Customer 0306,SME,1,2022-10-15,Construction
+307,CUST-0307,Apex Customer 0307,SME,1,2023-10-11,Professional Services
+308,CUST-0308,Apex Customer 0308,Enterprise,6,2023-12-03,Retail
+309,CUST-0309,Apex Customer 0309,SME,3,2023-02-19,Construction
+310,CUST-0310,Apex Customer 0310,SME,4,2022-08-06,Construction
+311,CUST-0311,Apex Customer 0311,SME,5,2021-04-24,Manufacturing
+312,CUST-0312,Apex Customer 0312,Mid-Market,5,2020-08-10,Construction
+313,CUST-0313,Apex Customer 0313,SME,1,2022-07-27,Retail
+314,CUST-0314,Apex Customer 0314,Mid-Market,6,2020-05-26,Construction
+315,CUST-0315,Apex Customer 0315,Mid-Market,5,2021-12-22,Retail
+316,CUST-0316,Apex Customer 0316,Enterprise,1,2023-01-12,Construction
+317,CUST-0317,Apex Customer 0317,Mid-Market,2,2023-07-23,Healthcare
+318,CUST-0318,Apex Customer 0318,Enterprise,4,2022-05-12,Professional Services
+319,CUST-0319,Apex Customer 0319,SME,4,2020-08-12,Healthcare
+320,CUST-0320,Apex Customer 0320,Mid-Market,4,2022-10-04,Healthcare
+321,CUST-0321,Apex Customer 0321,SME,5,2020-03-04,Education
+322,CUST-0322,Apex Customer 0322,Mid-Market,2,2021-04-07,Hospitality
+323,CUST-0323,Apex Customer 0323,SME,6,2023-03-24,Retail
+324,CUST-0324,Apex Customer 0324,SME,5,2021-08-22,Manufacturing
+325,CUST-0325,Apex Customer 0325,SME,5,2021-10-15,Hospitality
+326,CUST-0326,Apex Customer 0326,SME,1,2021-02-25,Construction
+327,CUST-0327,Apex Customer 0327,SME,5,2023-04-18,Manufacturing
+328,CUST-0328,Apex Customer 0328,SME,1,2022-08-19,Healthcare
+329,CUST-0329,Apex Customer 0329,SME,5,2023-10-16,Healthcare
+330,CUST-0330,Apex Customer 0330,Mid-Market,1,2023-10-23,Education
+331,CUST-0331,Apex Customer 0331,Mid-Market,2,2023-12-02,Construction
+332,CUST-0332,Apex Customer 0332,SME,2,2023-03-26,Professional Services
+333,CUST-0333,Apex Customer 0333,SME,2,2021-08-09,Construction
+334,CUST-0334,Apex Customer 0334,SME,5,2023-06-14,Healthcare
+335,CUST-0335,Apex Customer 0335,Mid-Market,4,2021-05-01,Healthcare
+336,CUST-0336,Apex Customer 0336,Enterprise,6,2022-03-11,Construction
+337,CUST-0337,Apex Customer 0337,SME,2,2021-06-25,Healthcare
+338,CUST-0338,Apex Customer 0338,Enterprise,1,2021-02-13,Construction
+339,CUST-0339,Apex Customer 0339,SME,1,2022-04-02,Hospitality
+340,CUST-0340,Apex Customer 0340,SME,5,2021-05-05,Healthcare
+341,CUST-0341,Apex Customer 0341,SME,3,2022-12-05,Healthcare
+342,CUST-0342,Apex Customer 0342,SME,1,2023-09-08,Construction
+343,CUST-0343,Apex Customer 0343,Mid-Market,2,2019-08-11,Manufacturing
+344,CUST-0344,Apex Customer 0344,Mid-Market,1,2023-11-15,Healthcare
+345,CUST-0345,Apex Customer 0345,SME,5,2021-09-01,Education
+346,CUST-0346,Apex Customer 0346,SME,6,2022-01-12,Healthcare
+347,CUST-0347,Apex Customer 0347,SME,4,2019-12-18,Healthcare
+348,CUST-0348,Apex Customer 0348,SME,4,2021-11-03,Professional Services
+349,CUST-0349,Apex Customer 0349,SME,2,2022-03-24,Healthcare
+350,CUST-0350,Apex Customer 0350,SME,1,2022-07-04,Education
+351,CUST-0351,Apex Customer 0351,Mid-Market,4,2022-07-05,Healthcare
+352,CUST-0352,Apex Customer 0352,Mid-Market,4,2021-03-12,Education
+353,CUST-0353,Apex Customer 0353,SME,4,2023-11-11,Professional Services
+354,CUST-0354,Apex Customer 0354,SME,3,2021-04-06,Professional Services
+355,CUST-0355,Apex Customer 0355,SME,5,2021-02-18,Manufacturing
+356,CUST-0356,Apex Customer 0356,Mid-Market,2,2022-02-15,Construction
+357,CUST-0357,Apex Customer 0357,Enterprise,1,2022-11-21,Education
+358,CUST-0358,Apex Customer 0358,SME,3,2022-05-02,Healthcare
+359,CUST-0359,Apex Customer 0359,SME,2,2023-05-20,Manufacturing
+360,CUST-0360,Apex Customer 0360,SME,1,2022-11-24,Healthcare
+361,CUST-0361,Apex Customer 0361,SME,6,2021-08-17,Manufacturing
+362,CUST-0362,Apex Customer 0362,Mid-Market,1,2020-01-27,Healthcare
+363,CUST-0363,Apex Customer 0363,SME,2,2022-09-15,Healthcare
+364,CUST-0364,Apex Customer 0364,Mid-Market,5,2021-08-11,Manufacturing
+365,CUST-0365,Apex Customer 0365,Mid-Market,4,2023-04-13,Hospitality
+366,CUST-0366,Apex Customer 0366,SME,2,2022-01-26,Healthcare
+367,CUST-0367,Apex Customer 0367,SME,1,2023-04-15,Manufacturing
+368,CUST-0368,Apex Customer 0368,Mid-Market,5,2023-09-05,Construction
+369,CUST-0369,Apex Customer 0369,SME,4,2021-08-11,Education
+370,CUST-0370,Apex Customer 0370,Mid-Market,2,2021-03-19,Construction
+371,CUST-0371,Apex Customer 0371,SME,2,2023-02-10,Education
+372,CUST-0372,Apex Customer 0372,Mid-Market,5,2022-11-07,Professional Services
+373,CUST-0373,Apex Customer 0373,Mid-Market,2,2019-04-14,Manufacturing
+374,CUST-0374,Apex Customer 0374,Mid-Market,1,2021-02-14,Manufacturing
+375,CUST-0375,Apex Customer 0375,Enterprise,1,2021-06-14,Construction
+376,CUST-0376,Apex Customer 0376,Mid-Market,4,2021-10-26,Retail
+377,CUST-0377,Apex Customer 0377,SME,2,2019-04-28,Education
+378,CUST-0378,Apex Customer 0378,SME,4,2022-03-21,Professional Services
+379,CUST-0379,Apex Customer 0379,Mid-Market,1,2023-07-02,Manufacturing
+380,CUST-0380,Apex Customer 0380,SME,2,2023-05-25,Retail
+381,CUST-0381,Apex Customer 0381,Enterprise,6,2020-12-07,Retail
+382,CUST-0382,Apex Customer 0382,Mid-Market,5,2019-07-27,Construction
+383,CUST-0383,Apex Customer 0383,SME,2,2022-04-07,Professional Services
+384,CUST-0384,Apex Customer 0384,SME,4,2023-04-09,Construction
+385,CUST-0385,Apex Customer 0385,SME,6,2023-10-18,Retail
+386,CUST-0386,Apex Customer 0386,SME,4,2022-07-15,Hospitality
+387,CUST-0387,Apex Customer 0387,Enterprise,1,2019-05-28,Hospitality
+388,CUST-0388,Apex Customer 0388,SME,4,2022-07-04,Construction
+389,CUST-0389,Apex Customer 0389,Mid-Market,5,2023-11-18,Manufacturing
+390,CUST-0390,Apex Customer 0390,Mid-Market,5,2021-10-02,Manufacturing
+391,CUST-0391,Apex Customer 0391,SME,4,2021-09-06,Education
+392,CUST-0392,Apex Customer 0392,SME,3,2019-11-20,Healthcare
+393,CUST-0393,Apex Customer 0393,SME,1,2021-07-22,Manufacturing
+394,CUST-0394,Apex Customer 0394,Mid-Market,2,2023-07-21,Hospitality
+395,CUST-0395,Apex Customer 0395,Mid-Market,3,2021-11-05,Manufacturing
+396,CUST-0396,Apex Customer 0396,SME,2,2023-08-27,Construction
+397,CUST-0397,Apex Customer 0397,Mid-Market,2,2022-03-07,Manufacturing
+398,CUST-0398,Apex Customer 0398,SME,1,2023-10-13,Hospitality
+399,CUST-0399,Apex Customer 0399,Mid-Market,5,2020-04-23,Hospitality
+400,CUST-0400,Apex Customer 0400,SME,3,2021-10-23,Healthcare
+401,CUST-0401,Apex Customer 0401,Mid-Market,5,2020-07-19,Professional Services
+402,CUST-0402,Apex Customer 0402,SME,2,2020-06-16,Construction
+403,CUST-0403,Apex Customer 0403,SME,1,2021-12-18,Healthcare
+404,CUST-0404,Apex Customer 0404,SME,4,2022-05-13,Construction
+405,CUST-0405,Apex Customer 0405,SME,5,2019-10-14,Construction
+406,CUST-0406,Apex Customer 0406,SME,5,2019-12-01,Healthcare
+407,CUST-0407,Apex Customer 0407,Mid-Market,2,2023-05-02,Hospitality
+408,CUST-0408,Apex Customer 0408,Mid-Market,3,2022-03-20,Professional Services
+409,CUST-0409,Apex Customer 0409,Mid-Market,5,2021-09-15,Education
+410,CUST-0410,Apex Customer 0410,Mid-Market,3,2023-09-05,Healthcare
+411,CUST-0411,Apex Customer 0411,SME,1,2022-08-18,Construction
+412,CUST-0412,Apex Customer 0412,SME,2,2022-10-04,Professional Services
+413,CUST-0413,Apex Customer 0413,SME,3,2023-08-04,Education
+414,CUST-0414,Apex Customer 0414,SME,3,2023-11-06,Education
+415,CUST-0415,Apex Customer 0415,Mid-Market,4,2019-05-19,Construction
+416,CUST-0416,Apex Customer 0416,SME,5,2019-04-06,Healthcare
+417,CUST-0417,Apex Customer 0417,SME,1,2022-04-23,Construction
+418,CUST-0418,Apex Customer 0418,SME,3,2023-02-19,Construction
+419,CUST-0419,Apex Customer 0419,Mid-Market,5,2020-11-20,Construction
+420,CUST-0420,Apex Customer 0420,Mid-Market,3,2019-04-22,Hospitality
+421,CUST-0421,Apex Customer 0421,SME,1,2021-01-08,Education
+422,CUST-0422,Apex Customer 0422,Mid-Market,2,2023-07-10,Healthcare
+423,CUST-0423,Apex Customer 0423,SME,3,2019-04-02,Hospitality
+424,CUST-0424,Apex Customer 0424,SME,5,2022-04-05,Hospitality
+425,CUST-0425,Apex Customer 0425,Mid-Market,4,2020-08-25,Retail
+426,CUST-0426,Apex Customer 0426,SME,5,2022-09-22,Retail
+427,CUST-0427,Apex Customer 0427,SME,1,2020-04-21,Education
+428,CUST-0428,Apex Customer 0428,Enterprise,2,2022-05-10,Education
+429,CUST-0429,Apex Customer 0429,SME,1,2021-07-02,Hospitality
+430,CUST-0430,Apex Customer 0430,Mid-Market,3,2019-07-01,Manufacturing
+431,CUST-0431,Apex Customer 0431,Mid-Market,1,2022-12-21,Education
+432,CUST-0432,Apex Customer 0432,SME,4,2022-08-27,Manufacturing
+433,CUST-0433,Apex Customer 0433,SME,4,2023-05-27,Professional Services
+434,CUST-0434,Apex Customer 0434,Mid-Market,5,2021-12-12,Manufacturing
+435,CUST-0435,Apex Customer 0435,SME,1,2020-11-18,Healthcare
+436,CUST-0436,Apex Customer 0436,Mid-Market,1,2023-08-16,Retail
+437,CUST-0437,Apex Customer 0437,Mid-Market,2,2022-11-20,Retail
+438,CUST-0438,Apex Customer 0438,SME,4,2023-07-04,Manufacturing
+439,CUST-0439,Apex Customer 0439,SME,1,2023-12-24,Retail
+440,CUST-0440,Apex Customer 0440,Enterprise,5,2022-06-02,Healthcare
+441,CUST-0441,Apex Customer 0441,Mid-Market,1,2022-10-20,Manufacturing
+442,CUST-0442,Apex Customer 0442,Mid-Market,4,2020-12-14,Hospitality
+443,CUST-0443,Apex Customer 0443,SME,2,2022-04-08,Construction
+444,CUST-0444,Apex Customer 0444,Mid-Market,2,2019-08-22,Manufacturing
+445,CUST-0445,Apex Customer 0445,SME,5,2023-08-21,Retail
+446,CUST-0446,Apex Customer 0446,Mid-Market,4,2022-09-26,Construction
+447,CUST-0447,Apex Customer 0447,SME,3,2022-08-08,Healthcare
+448,CUST-0448,Apex Customer 0448,SME,4,2022-12-15,Hospitality
+449,CUST-0449,Apex Customer 0449,Mid-Market,6,2019-01-05,Construction
+450,CUST-0450,Apex Customer 0450,SME,2,2020-10-15,Education
+451,CUST-0451,Apex Customer 0451,Mid-Market,5,2023-07-20,Retail
+452,CUST-0452,Apex Customer 0452,Mid-Market,2,2022-09-27,Retail
+453,CUST-0453,Apex Customer 0453,Mid-Market,1,2020-04-10,Healthcare
+454,CUST-0454,Apex Customer 0454,SME,6,2021-02-16,Hospitality
+455,CUST-0455,Apex Customer 0455,SME,3,2021-01-02,Healthcare
+456,CUST-0456,Apex Customer 0456,Mid-Market,6,2023-12-03,Healthcare
+457,CUST-0457,Apex Customer 0457,SME,1,2019-06-14,Education
+458,CUST-0458,Apex Customer 0458,Enterprise,2,2021-09-13,Construction
+459,CUST-0459,Apex Customer 0459,SME,2,2019-09-02,Retail
+460,CUST-0460,Apex Customer 0460,Mid-Market,5,2023-06-26,Professional Services
+461,CUST-0461,Apex Customer 0461,Mid-Market,2,2020-12-13,Healthcare
+462,CUST-0462,Apex Customer 0462,Mid-Market,4,2019-09-16,Retail
+463,CUST-0463,Apex Customer 0463,Mid-Market,2,2021-10-23,Manufacturing
+464,CUST-0464,Apex Customer 0464,SME,1,2022-07-17,Retail
+465,CUST-0465,Apex Customer 0465,SME,2,2019-02-19,Retail
+466,CUST-0466,Apex Customer 0466,Mid-Market,1,2019-12-04,Education
+467,CUST-0467,Apex Customer 0467,SME,3,2022-01-06,Manufacturing
+468,CUST-0468,Apex Customer 0468,SME,1,2022-02-08,Manufacturing
+469,CUST-0469,Apex Customer 0469,SME,2,2022-06-27,Healthcare
+470,CUST-0470,Apex Customer 0470,SME,4,2021-04-23,Healthcare
+471,CUST-0471,Apex Customer 0471,SME,3,2022-10-20,Education
+472,CUST-0472,Apex Customer 0472,SME,5,2023-04-11,Education
+473,CUST-0473,Apex Customer 0473,SME,5,2021-06-04,Professional Services
+474,CUST-0474,Apex Customer 0474,SME,2,2022-11-05,Education
+475,CUST-0475,Apex Customer 0475,SME,1,2022-05-22,Healthcare
+476,CUST-0476,Apex Customer 0476,SME,5,2021-09-17,Education
+477,CUST-0477,Apex Customer 0477,Mid-Market,5,2020-05-27,Retail
+478,CUST-0478,Apex Customer 0478,Mid-Market,3,2022-04-05,Healthcare
+479,CUST-0479,Apex Customer 0479,Enterprise,1,2021-08-23,Construction
+480,CUST-0480,Apex Customer 0480,Enterprise,1,2023-10-17,Retail
+481,CUST-0481,Apex Customer 0481,Mid-Market,4,2023-08-18,Manufacturing
+482,CUST-0482,Apex Customer 0482,SME,1,2020-10-25,Healthcare
+483,CUST-0483,Apex Customer 0483,SME,4,2021-04-13,Manufacturing
+484,CUST-0484,Apex Customer 0484,Mid-Market,1,2022-11-23,Construction
+485,CUST-0485,Apex Customer 0485,Mid-Market,1,2023-07-28,Hospitality
+486,CUST-0486,Apex Customer 0486,Mid-Market,1,2021-10-22,Healthcare
+487,CUST-0487,Apex Customer 0487,SME,1,2021-08-16,Hospitality
+488,CUST-0488,Apex Customer 0488,SME,5,2021-05-09,Manufacturing
+489,CUST-0489,Apex Customer 0489,SME,6,2021-05-14,Hospitality
+490,CUST-0490,Apex Customer 0490,Mid-Market,6,2021-07-28,Professional Services
+491,CUST-0491,Apex Customer 0491,Enterprise,3,2020-08-18,Education
+492,CUST-0492,Apex Customer 0492,SME,4,2023-06-06,Construction
+493,CUST-0493,Apex Customer 0493,Enterprise,2,2022-11-19,Hospitality
+494,CUST-0494,Apex Customer 0494,Mid-Market,2,2019-05-16,Retail
+495,CUST-0495,Apex Customer 0495,Mid-Market,6,2023-03-27,Education
+496,CUST-0496,Apex Customer 0496,SME,4,2022-10-17,Manufacturing
+497,CUST-0497,Apex Customer 0497,Mid-Market,6,2021-05-18,Manufacturing
+498,CUST-0498,Apex Customer 0498,Mid-Market,1,2019-11-15,Professional Services
+499,CUST-0499,Apex Customer 0499,Enterprise,5,2022-03-24,Professional Services
+500,CUST-0500,Apex Customer 0500,SME,6,2020-05-23,Hospitality
+501,CUST-0501,Apex Customer 0501,SME,2,2022-06-09,Professional Services
+502,CUST-0502,Apex Customer 0502,SME,6,2020-02-03,Professional Services
+503,CUST-0503,Apex Customer 0503,SME,4,2019-12-19,Retail
+504,CUST-0504,Apex Customer 0504,Mid-Market,5,2022-04-03,Healthcare
+505,CUST-0505,Apex Customer 0505,Mid-Market,1,2022-08-01,Manufacturing
+506,CUST-0506,Apex Customer 0506,SME,5,2023-10-17,Retail
+507,CUST-0507,Apex Customer 0507,Mid-Market,1,2019-09-01,Manufacturing
+508,CUST-0508,Apex Customer 0508,SME,6,2020-07-22,Construction
+509,CUST-0509,Apex Customer 0509,Mid-Market,1,2021-05-04,Construction
+510,CUST-0510,Apex Customer 0510,Enterprise,2,2019-02-05,Retail
+511,CUST-0511,Apex Customer 0511,SME,3,2020-01-03,Healthcare
+512,CUST-0512,Apex Customer 0512,Enterprise,6,2023-01-13,Construction
+513,CUST-0513,Apex Customer 0513,SME,2,2022-01-02,Professional Services
+514,CUST-0514,Apex Customer 0514,SME,2,2020-02-21,Manufacturing
+515,CUST-0515,Apex Customer 0515,SME,1,2023-10-01,Hospitality
+516,CUST-0516,Apex Customer 0516,Enterprise,1,2020-08-14,Retail
+517,CUST-0517,Apex Customer 0517,SME,1,2022-02-22,Manufacturing
+518,CUST-0518,Apex Customer 0518,SME,3,2020-09-03,Professional Services
+519,CUST-0519,Apex Customer 0519,SME,1,2022-11-09,Hospitality
+520,CUST-0520,Apex Customer 0520,SME,6,2023-06-27,Professional Services
+521,CUST-0521,Apex Customer 0521,Mid-Market,1,2019-05-11,Manufacturing
+522,CUST-0522,Apex Customer 0522,Mid-Market,2,2023-06-10,Education
+523,CUST-0523,Apex Customer 0523,Mid-Market,1,2023-07-11,Healthcare
+524,CUST-0524,Apex Customer 0524,SME,5,2023-02-23,Manufacturing
+525,CUST-0525,Apex Customer 0525,SME,1,2019-01-14,Healthcare
+526,CUST-0526,Apex Customer 0526,SME,4,2020-08-04,Construction
+527,CUST-0527,Apex Customer 0527,SME,3,2023-03-14,Professional Services
+528,CUST-0528,Apex Customer 0528,SME,4,2020-08-22,Hospitality
+529,CUST-0529,Apex Customer 0529,Mid-Market,2,2021-07-08,Construction
+530,CUST-0530,Apex Customer 0530,SME,1,2021-05-23,Professional Services
+531,CUST-0531,Apex Customer 0531,SME,5,2021-08-16,Construction
+532,CUST-0532,Apex Customer 0532,SME,2,2022-06-22,Professional Services
+533,CUST-0533,Apex Customer 0533,Enterprise,2,2023-11-26,Healthcare
+534,CUST-0534,Apex Customer 0534,Enterprise,1,2020-01-19,Education
+535,CUST-0535,Apex Customer 0535,Mid-Market,4,2021-01-11,Hospitality
+536,CUST-0536,Apex Customer 0536,SME,5,2021-08-08,Hospitality
+537,CUST-0537,Apex Customer 0537,Mid-Market,4,2023-01-26,Healthcare
+538,CUST-0538,Apex Customer 0538,SME,6,2021-07-11,Hospitality
+539,CUST-0539,Apex Customer 0539,Mid-Market,2,2023-03-08,Healthcare
+540,CUST-0540,Apex Customer 0540,Enterprise,3,2023-02-07,Retail
+541,CUST-0541,Apex Customer 0541,Mid-Market,2,2020-12-13,Retail
+542,CUST-0542,Apex Customer 0542,SME,5,2022-05-07,Professional Services
+543,CUST-0543,Apex Customer 0543,SME,1,2021-10-26,Professional Services
+544,CUST-0544,Apex Customer 0544,SME,3,2020-03-05,Retail
+545,CUST-0545,Apex Customer 0545,SME,3,2023-04-11,Education
+546,CUST-0546,Apex Customer 0546,SME,2,2022-01-26,Healthcare
+547,CUST-0547,Apex Customer 0547,Mid-Market,1,2021-07-25,Education
+548,CUST-0548,Apex Customer 0548,SME,5,2021-10-17,Professional Services
+549,CUST-0549,Apex Customer 0549,Mid-Market,1,2022-04-26,Manufacturing
+550,CUST-0550,Apex Customer 0550,Enterprise,1,2022-08-07,Manufacturing
+551,CUST-0551,Apex Customer 0551,Enterprise,1,2020-01-05,Healthcare
+552,CUST-0552,Apex Customer 0552,SME,4,2022-03-05,Construction
+553,CUST-0553,Apex Customer 0553,SME,6,2021-01-12,Manufacturing
+554,CUST-0554,Apex Customer 0554,SME,6,2023-10-22,Professional Services
+555,CUST-0555,Apex Customer 0555,Mid-Market,6,2022-03-11,Construction
+556,CUST-0556,Apex Customer 0556,SME,2,2023-06-17,Manufacturing
+557,CUST-0557,Apex Customer 0557,Mid-Market,1,2022-10-18,Construction
+558,CUST-0558,Apex Customer 0558,SME,2,2021-10-04,Hospitality
+559,CUST-0559,Apex Customer 0559,SME,1,2021-06-01,Education
+560,CUST-0560,Apex Customer 0560,SME,5,2023-12-27,Manufacturing
+561,CUST-0561,Apex Customer 0561,SME,4,2023-08-13,Healthcare
+562,CUST-0562,Apex Customer 0562,SME,3,2022-10-14,Construction
+563,CUST-0563,Apex Customer 0563,Mid-Market,4,2023-11-27,Construction
+564,CUST-0564,Apex Customer 0564,SME,2,2020-04-08,Education
+565,CUST-0565,Apex Customer 0565,SME,6,2020-06-03,Retail
+566,CUST-0566,Apex Customer 0566,SME,4,2020-04-13,Construction
+567,CUST-0567,Apex Customer 0567,Mid-Market,6,2023-09-06,Manufacturing
+568,CUST-0568,Apex Customer 0568,SME,2,2022-02-24,Manufacturing
+569,CUST-0569,Apex Customer 0569,Enterprise,1,2020-04-06,Healthcare
+570,CUST-0570,Apex Customer 0570,Mid-Market,4,2022-10-04,Healthcare
+571,CUST-0571,Apex Customer 0571,SME,5,2022-08-12,Education
+572,CUST-0572,Apex Customer 0572,SME,4,2020-09-09,Education
+573,CUST-0573,Apex Customer 0573,Mid-Market,1,2023-03-01,Professional Services
+574,CUST-0574,Apex Customer 0574,SME,3,2023-07-20,Retail
+575,CUST-0575,Apex Customer 0575,Enterprise,1,2020-12-05,Manufacturing
+576,CUST-0576,Apex Customer 0576,Mid-Market,4,2021-02-03,Professional Services
+577,CUST-0577,Apex Customer 0577,Mid-Market,6,2021-07-16,Professional Services
+578,CUST-0578,Apex Customer 0578,Mid-Market,2,2022-11-05,Retail
+579,CUST-0579,Apex Customer 0579,SME,4,2021-02-24,Hospitality
+580,CUST-0580,Apex Customer 0580,SME,4,2023-09-06,Healthcare
+581,CUST-0581,Apex Customer 0581,SME,4,2020-03-14,Professional Services
+582,CUST-0582,Apex Customer 0582,Mid-Market,5,2022-01-19,Retail
+583,CUST-0583,Apex Customer 0583,Mid-Market,5,2021-06-22,Manufacturing
+584,CUST-0584,Apex Customer 0584,SME,2,2021-07-26,Construction
+585,CUST-0585,Apex Customer 0585,SME,6,2022-09-21,Healthcare
+586,CUST-0586,Apex Customer 0586,Mid-Market,1,2022-07-13,Retail
+587,CUST-0587,Apex Customer 0587,Enterprise,5,2020-01-27,Healthcare
+588,CUST-0588,Apex Customer 0588,SME,1,2022-04-09,Construction
+589,CUST-0589,Apex Customer 0589,SME,4,2020-08-15,Retail
+590,CUST-0590,Apex Customer 0590,SME,4,2019-02-03,Professional Services
+591,CUST-0591,Apex Customer 0591,SME,4,2022-06-17,Education
+592,CUST-0592,Apex Customer 0592,SME,4,2023-04-05,Manufacturing
+593,CUST-0593,Apex Customer 0593,SME,3,2023-08-23,Healthcare
+594,CUST-0594,Apex Customer 0594,Enterprise,5,2020-08-26,Education
+595,CUST-0595,Apex Customer 0595,SME,3,2021-01-01,Retail
+596,CUST-0596,Apex Customer 0596,SME,2,2022-10-19,Manufacturing
+597,CUST-0597,Apex Customer 0597,Mid-Market,4,2020-05-26,Hospitality
+598,CUST-0598,Apex Customer 0598,SME,5,2019-02-19,Manufacturing
+599,CUST-0599,Apex Customer 0599,Mid-Market,2,2021-10-01,Manufacturing
+600,CUST-0600,Apex Customer 0600,SME,5,2021-11-08,Healthcare
+601,CUST-0601,Apex Customer 0601,SME,3,2022-11-02,Hospitality
+602,CUST-0602,Apex Customer 0602,SME,1,2019-08-25,Healthcare
+603,CUST-0603,Apex Customer 0603,SME,5,2022-06-11,Education
+604,CUST-0604,Apex Customer 0604,Mid-Market,5,2021-05-05,Hospitality
+605,CUST-0605,Apex Customer 0605,Mid-Market,5,2019-03-13,Education
+606,CUST-0606,Apex Customer 0606,Mid-Market,2,2021-11-03,Education
+607,CUST-0607,Apex Customer 0607,Mid-Market,5,2022-11-05,Manufacturing
+608,CUST-0608,Apex Customer 0608,SME,1,2019-01-18,Retail
+609,CUST-0609,Apex Customer 0609,Mid-Market,2,2020-11-07,Construction
+610,CUST-0610,Apex Customer 0610,Mid-Market,1,2021-02-09,Manufacturing
+611,CUST-0611,Apex Customer 0611,SME,3,2019-12-07,Manufacturing
+612,CUST-0612,Apex Customer 0612,SME,4,2021-01-12,Hospitality
+613,CUST-0613,Apex Customer 0613,SME,2,2023-12-11,Hospitality
+614,CUST-0614,Apex Customer 0614,Enterprise,4,2022-03-01,Manufacturing
+615,CUST-0615,Apex Customer 0615,SME,4,2023-08-12,Retail
+616,CUST-0616,Apex Customer 0616,Enterprise,5,2023-09-04,Professional Services
+617,CUST-0617,Apex Customer 0617,Mid-Market,1,2023-07-11,Professional Services
+618,CUST-0618,Apex Customer 0618,Mid-Market,4,2021-05-28,Professional Services
+619,CUST-0619,Apex Customer 0619,SME,1,2020-05-10,Hospitality
+620,CUST-0620,Apex Customer 0620,Mid-Market,4,2022-05-04,Education
+621,CUST-0621,Apex Customer 0621,SME,4,2021-08-17,Hospitality
+622,CUST-0622,Apex Customer 0622,Enterprise,2,2023-12-08,Professional Services
+623,CUST-0623,Apex Customer 0623,SME,4,2022-09-25,Retail
+624,CUST-0624,Apex Customer 0624,Enterprise,5,2020-08-17,Construction
+625,CUST-0625,Apex Customer 0625,SME,1,2019-02-18,Manufacturing
+626,CUST-0626,Apex Customer 0626,SME,5,2022-03-07,Retail
+627,CUST-0627,Apex Customer 0627,SME,2,2020-12-25,Construction
+628,CUST-0628,Apex Customer 0628,Mid-Market,1,2023-03-26,Healthcare
+629,CUST-0629,Apex Customer 0629,SME,1,2023-12-17,Manufacturing
+630,CUST-0630,Apex Customer 0630,SME,2,2019-07-01,Education
+631,CUST-0631,Apex Customer 0631,Enterprise,5,2022-07-12,Healthcare
+632,CUST-0632,Apex Customer 0632,SME,2,2020-02-08,Manufacturing
+633,CUST-0633,Apex Customer 0633,SME,6,2022-05-07,Professional Services
+634,CUST-0634,Apex Customer 0634,Mid-Market,2,2022-05-06,Hospitality
+635,CUST-0635,Apex Customer 0635,SME,1,2020-12-03,Retail
+636,CUST-0636,Apex Customer 0636,Mid-Market,2,2023-01-08,Retail
+637,CUST-0637,Apex Customer 0637,SME,3,2019-01-03,Manufacturing
+638,CUST-0638,Apex Customer 0638,Mid-Market,4,2020-07-24,Healthcare
+639,CUST-0639,Apex Customer 0639,SME,4,2021-06-14,Education
+640,CUST-0640,Apex Customer 0640,Enterprise,1,2023-12-23,Construction
+641,CUST-0641,Apex Customer 0641,Enterprise,1,2022-11-18,Education
+642,CUST-0642,Apex Customer 0642,SME,1,2021-12-19,Retail
+643,CUST-0643,Apex Customer 0643,Enterprise,2,2022-02-02,Construction
+644,CUST-0644,Apex Customer 0644,SME,5,2023-05-26,Education
+645,CUST-0645,Apex Customer 0645,Mid-Market,4,2020-03-02,Construction
+646,CUST-0646,Apex Customer 0646,SME,2,2022-06-07,Healthcare
+647,CUST-0647,Apex Customer 0647,Enterprise,3,2022-05-12,Healthcare
+648,CUST-0648,Apex Customer 0648,SME,5,2020-10-09,Retail
+649,CUST-0649,Apex Customer 0649,SME,2,2023-04-13,Healthcare
+650,CUST-0650,Apex Customer 0650,Mid-Market,4,2022-08-17,Construction
+651,CUST-0651,Apex Customer 0651,SME,2,2023-01-02,Retail
+652,CUST-0652,Apex Customer 0652,SME,4,2021-08-22,Healthcare
+653,CUST-0653,Apex Customer 0653,Mid-Market,2,2023-10-25,Education
+654,CUST-0654,Apex Customer 0654,Mid-Market,4,2022-02-16,Construction
+655,CUST-0655,Apex Customer 0655,SME,4,2023-01-23,Manufacturing
+656,CUST-0656,Apex Customer 0656,Enterprise,1,2022-10-21,Education
+657,CUST-0657,Apex Customer 0657,SME,5,2022-03-16,Construction
+658,CUST-0658,Apex Customer 0658,SME,4,2021-04-06,Construction
+659,CUST-0659,Apex Customer 0659,Mid-Market,2,2022-08-28,Retail
+660,CUST-0660,Apex Customer 0660,SME,4,2022-10-16,Hospitality
+661,CUST-0661,Apex Customer 0661,Enterprise,5,2022-08-19,Manufacturing
+662,CUST-0662,Apex Customer 0662,Mid-Market,5,2021-05-06,Construction
+663,CUST-0663,Apex Customer 0663,SME,2,2023-06-25,Manufacturing
+664,CUST-0664,Apex Customer 0664,SME,5,2022-05-19,Retail
+665,CUST-0665,Apex Customer 0665,Mid-Market,2,2022-12-14,Construction
+666,CUST-0666,Apex Customer 0666,SME,3,2022-02-21,Construction
+667,CUST-0667,Apex Customer 0667,SME,2,2019-12-23,Healthcare
+668,CUST-0668,Apex Customer 0668,SME,5,2022-12-20,Manufacturing
+669,CUST-0669,Apex Customer 0669,SME,5,2021-04-06,Professional Services
+670,CUST-0670,Apex Customer 0670,Enterprise,1,2020-06-03,Hospitality
+671,CUST-0671,Apex Customer 0671,SME,1,2021-11-21,Retail
+672,CUST-0672,Apex Customer 0672,Enterprise,5,2023-10-21,Professional Services
+673,CUST-0673,Apex Customer 0673,SME,4,2023-11-15,Professional Services
+674,CUST-0674,Apex Customer 0674,SME,4,2023-08-21,Hospitality
+675,CUST-0675,Apex Customer 0675,Enterprise,6,2022-02-27,Education
+676,CUST-0676,Apex Customer 0676,SME,2,2021-02-04,Hospitality
+677,CUST-0677,Apex Customer 0677,SME,1,2022-08-28,Hospitality
+678,CUST-0678,Apex Customer 0678,SME,5,2020-12-23,Education
+679,CUST-0679,Apex Customer 0679,SME,4,2023-06-10,Hospitality
+680,CUST-0680,Apex Customer 0680,Enterprise,4,2021-04-25,Education
+681,CUST-0681,Apex Customer 0681,SME,3,2023-06-04,Manufacturing
+682,CUST-0682,Apex Customer 0682,SME,2,2020-03-14,Manufacturing
+683,CUST-0683,Apex Customer 0683,SME,3,2023-02-03,Hospitality
+684,CUST-0684,Apex Customer 0684,SME,6,2022-07-24,Healthcare
+685,CUST-0685,Apex Customer 0685,SME,2,2021-01-14,Education
+686,CUST-0686,Apex Customer 0686,Mid-Market,1,2023-07-18,Manufacturing
+687,CUST-0687,Apex Customer 0687,SME,1,2021-09-22,Professional Services
+688,CUST-0688,Apex Customer 0688,Enterprise,6,2020-02-15,Healthcare
+689,CUST-0689,Apex Customer 0689,SME,1,2022-11-24,Healthcare
+690,CUST-0690,Apex Customer 0690,Mid-Market,1,2019-12-03,Healthcare
+691,CUST-0691,Apex Customer 0691,Mid-Market,1,2019-06-01,Professional Services
+692,CUST-0692,Apex Customer 0692,SME,4,2023-09-25,Manufacturing
+693,CUST-0693,Apex Customer 0693,Mid-Market,4,2019-12-07,Construction
+694,CUST-0694,Apex Customer 0694,Mid-Market,4,2023-09-28,Hospitality
+695,CUST-0695,Apex Customer 0695,SME,1,2022-02-08,Professional Services
+696,CUST-0696,Apex Customer 0696,SME,3,2019-03-02,Education
+697,CUST-0697,Apex Customer 0697,SME,1,2023-05-21,Professional Services
+698,CUST-0698,Apex Customer 0698,Enterprise,2,2020-07-15,Professional Services
+699,CUST-0699,Apex Customer 0699,SME,4,2020-12-22,Retail
+700,CUST-0700,Apex Customer 0700,SME,2,2023-05-24,Hospitality
+701,CUST-0701,Apex Customer 0701,SME,5,2023-03-06,Professional Services
+702,CUST-0702,Apex Customer 0702,SME,2,2022-08-02,Retail
+703,CUST-0703,Apex Customer 0703,SME,4,2023-11-16,Retail
+704,CUST-0704,Apex Customer 0704,SME,2,2022-04-11,Hospitality
+705,CUST-0705,Apex Customer 0705,SME,1,2020-11-20,Hospitality
+706,CUST-0706,Apex Customer 0706,Mid-Market,1,2020-08-12,Healthcare
+707,CUST-0707,Apex Customer 0707,SME,3,2021-07-14,Healthcare
+708,CUST-0708,Apex Customer 0708,SME,5,2022-05-26,Professional Services
+709,CUST-0709,Apex Customer 0709,SME,1,2020-02-02,Healthcare
+710,CUST-0710,Apex Customer 0710,SME,1,2022-12-24,Manufacturing
+711,CUST-0711,Apex Customer 0711,SME,2,2020-11-28,Healthcare
+712,CUST-0712,Apex Customer 0712,Mid-Market,1,2021-03-07,Construction
+713,CUST-0713,Apex Customer 0713,SME,5,2021-02-01,Construction
+714,CUST-0714,Apex Customer 0714,SME,1,2023-05-27,Retail
+715,CUST-0715,Apex Customer 0715,SME,1,2023-06-14,Retail
+716,CUST-0716,Apex Customer 0716,SME,6,2021-09-02,Education
+717,CUST-0717,Apex Customer 0717,Mid-Market,1,2019-04-25,Retail
+718,CUST-0718,Apex Customer 0718,SME,1,2023-01-01,Healthcare
+719,CUST-0719,Apex Customer 0719,Mid-Market,2,2022-09-02,Education
+720,CUST-0720,Apex Customer 0720,Mid-Market,1,2021-02-27,Hospitality
+721,CUST-0721,Apex Customer 0721,SME,2,2021-03-07,Construction
+722,CUST-0722,Apex Customer 0722,SME,4,2021-03-18,Retail
+723,CUST-0723,Apex Customer 0723,Enterprise,4,2021-09-19,Professional Services
+724,CUST-0724,Apex Customer 0724,SME,1,2021-01-11,Education
+725,CUST-0725,Apex Customer 0725,SME,4,2022-07-05,Manufacturing
+726,CUST-0726,Apex Customer 0726,SME,1,2022-01-05,Professional Services
+727,CUST-0727,Apex Customer 0727,SME,5,2022-06-09,Construction
+728,CUST-0728,Apex Customer 0728,SME,1,2020-02-01,Hospitality
+729,CUST-0729,Apex Customer 0729,SME,6,2021-08-01,Healthcare
+730,CUST-0730,Apex Customer 0730,SME,6,2022-07-07,Healthcare
+731,CUST-0731,Apex Customer 0731,SME,2,2020-12-20,Education
+732,CUST-0732,Apex Customer 0732,SME,6,2021-08-03,Retail
+733,CUST-0733,Apex Customer 0733,SME,2,2023-02-15,Professional Services
+734,CUST-0734,Apex Customer 0734,SME,5,2019-07-26,Retail
+735,CUST-0735,Apex Customer 0735,SME,4,2023-08-24,Education
+736,CUST-0736,Apex Customer 0736,Mid-Market,5,2020-11-02,Manufacturing
+737,CUST-0737,Apex Customer 0737,Enterprise,6,2020-05-23,Professional Services
+738,CUST-0738,Apex Customer 0738,Mid-Market,1,2022-08-12,Healthcare
+739,CUST-0739,Apex Customer 0739,Mid-Market,6,2023-11-14,Hospitality
+740,CUST-0740,Apex Customer 0740,Enterprise,5,2019-10-01,Manufacturing
+741,CUST-0741,Apex Customer 0741,SME,5,2023-09-18,Education
+742,CUST-0742,Apex Customer 0742,SME,1,2021-05-04,Manufacturing
+743,CUST-0743,Apex Customer 0743,Enterprise,6,2022-06-09,Retail
+744,CUST-0744,Apex Customer 0744,SME,5,2019-05-07,Construction
+745,CUST-0745,Apex Customer 0745,SME,1,2019-07-05,Education
+746,CUST-0746,Apex Customer 0746,Mid-Market,1,2019-08-21,Retail
+747,CUST-0747,Apex Customer 0747,Mid-Market,4,2019-11-21,Hospitality
+748,CUST-0748,Apex Customer 0748,Mid-Market,1,2023-08-10,Retail
+749,CUST-0749,Apex Customer 0749,Mid-Market,6,2019-07-01,Construction
+750,CUST-0750,Apex Customer 0750,SME,4,2021-05-12,Retail
+751,CUST-0751,Apex Customer 0751,Mid-Market,2,2019-04-23,Professional Services
+752,CUST-0752,Apex Customer 0752,SME,1,2022-07-20,Hospitality
+753,CUST-0753,Apex Customer 0753,SME,1,2020-05-05,Retail
+754,CUST-0754,Apex Customer 0754,Mid-Market,3,2022-04-17,Construction
+755,CUST-0755,Apex Customer 0755,SME,1,2023-05-12,Retail
+756,CUST-0756,Apex Customer 0756,Enterprise,2,2019-06-13,Education
+757,CUST-0757,Apex Customer 0757,SME,3,2023-08-22,Hospitality
+758,CUST-0758,Apex Customer 0758,SME,6,2023-02-26,Retail
+759,CUST-0759,Apex Customer 0759,Enterprise,2,2022-08-06,Hospitality
+760,CUST-0760,Apex Customer 0760,SME,5,2019-02-19,Professional Services
+761,CUST-0761,Apex Customer 0761,Mid-Market,1,2022-12-28,Hospitality
+762,CUST-0762,Apex Customer 0762,Enterprise,2,2023-08-04,Professional Services
+763,CUST-0763,Apex Customer 0763,Mid-Market,2,2023-07-16,Construction
+764,CUST-0764,Apex Customer 0764,SME,4,2021-08-26,Education
+765,CUST-0765,Apex Customer 0765,SME,1,2021-11-25,Professional Services
+766,CUST-0766,Apex Customer 0766,Mid-Market,1,2022-12-22,Hospitality
+767,CUST-0767,Apex Customer 0767,SME,6,2023-09-04,Education
+768,CUST-0768,Apex Customer 0768,SME,4,2021-10-17,Retail
+769,CUST-0769,Apex Customer 0769,Mid-Market,4,2019-04-07,Construction
+770,CUST-0770,Apex Customer 0770,SME,5,2019-10-05,Professional Services
+771,CUST-0771,Apex Customer 0771,SME,2,2021-01-18,Healthcare
+772,CUST-0772,Apex Customer 0772,SME,2,2020-07-07,Retail
+773,CUST-0773,Apex Customer 0773,SME,1,2021-07-23,Healthcare
+774,CUST-0774,Apex Customer 0774,SME,1,2023-07-05,Construction
+775,CUST-0775,Apex Customer 0775,SME,3,2021-11-04,Education
+776,CUST-0776,Apex Customer 0776,SME,2,2021-04-07,Professional Services
+777,CUST-0777,Apex Customer 0777,SME,1,2023-08-15,Construction
+778,CUST-0778,Apex Customer 0778,Mid-Market,4,2021-02-23,Manufacturing
+779,CUST-0779,Apex Customer 0779,Mid-Market,4,2023-10-03,Healthcare
+780,CUST-0780,Apex Customer 0780,SME,2,2020-04-24,Professional Services
+781,CUST-0781,Apex Customer 0781,SME,6,2020-03-12,Education
+782,CUST-0782,Apex Customer 0782,Mid-Market,1,2020-12-10,Construction
+783,CUST-0783,Apex Customer 0783,SME,3,2020-09-28,Retail
+784,CUST-0784,Apex Customer 0784,Enterprise,5,2022-07-03,Retail
+785,CUST-0785,Apex Customer 0785,SME,3,2022-02-01,Education
+786,CUST-0786,Apex Customer 0786,SME,1,2021-02-16,Construction
+787,CUST-0787,Apex Customer 0787,SME,4,2021-03-03,Retail
+788,CUST-0788,Apex Customer 0788,SME,1,2022-05-02,Manufacturing
+789,CUST-0789,Apex Customer 0789,SME,6,2023-01-16,Manufacturing
+790,CUST-0790,Apex Customer 0790,SME,1,2023-02-04,Education
+791,CUST-0791,Apex Customer 0791,SME,5,2021-05-01,Construction
+792,CUST-0792,Apex Customer 0792,Mid-Market,1,2020-03-03,Retail
+793,CUST-0793,Apex Customer 0793,Mid-Market,3,2023-10-14,Education
+794,CUST-0794,Apex Customer 0794,SME,6,2020-10-08,Hospitality
+795,CUST-0795,Apex Customer 0795,Enterprise,5,2022-07-14,Healthcare
+796,CUST-0796,Apex Customer 0796,SME,4,2022-09-27,Professional Services
+797,CUST-0797,Apex Customer 0797,SME,3,2022-06-22,Professional Services
+798,CUST-0798,Apex Customer 0798,Mid-Market,4,2021-03-17,Education
+799,CUST-0799,Apex Customer 0799,SME,4,2020-04-08,Manufacturing
+800,CUST-0800,Apex Customer 0800,SME,6,2023-12-02,Healthcare
+801,CUST-0801,Apex Customer 0801,SME,4,2022-07-11,Hospitality
+802,CUST-0802,Apex Customer 0802,Mid-Market,5,2023-09-16,Education
+803,CUST-0803,Apex Customer 0803,SME,1,2019-09-04,Education
+804,CUST-0804,Apex Customer 0804,SME,2,2020-06-01,Healthcare
+805,CUST-0805,Apex Customer 0805,SME,1,2020-06-08,Manufacturing
+806,CUST-0806,Apex Customer 0806,SME,1,2023-11-07,Professional Services
+807,CUST-0807,Apex Customer 0807,SME,1,2022-08-14,Construction
+808,CUST-0808,Apex Customer 0808,Enterprise,5,2021-12-28,Education
+809,CUST-0809,Apex Customer 0809,Mid-Market,4,2020-01-14,Construction
+810,CUST-0810,Apex Customer 0810,SME,5,2020-07-03,Education
+811,CUST-0811,Apex Customer 0811,SME,5,2022-07-16,Healthcare
+812,CUST-0812,Apex Customer 0812,Enterprise,4,2023-03-09,Retail
+813,CUST-0813,Apex Customer 0813,Enterprise,3,2021-03-15,Manufacturing
+814,CUST-0814,Apex Customer 0814,Enterprise,4,2021-03-11,Retail
+815,CUST-0815,Apex Customer 0815,Enterprise,3,2023-03-23,Professional Services
+816,CUST-0816,Apex Customer 0816,SME,4,2022-02-17,Hospitality
+817,CUST-0817,Apex Customer 0817,SME,3,2020-11-18,Hospitality
+818,CUST-0818,Apex Customer 0818,SME,6,2023-09-18,Manufacturing
+819,CUST-0819,Apex Customer 0819,SME,5,2020-07-19,Professional Services
+820,CUST-0820,Apex Customer 0820,Mid-Market,4,2021-07-15,Healthcare
+821,CUST-0821,Apex Customer 0821,SME,3,2020-03-05,Education
+822,CUST-0822,Apex Customer 0822,Enterprise,4,2023-11-01,Retail
+823,CUST-0823,Apex Customer 0823,SME,4,2019-08-03,Professional Services
+824,CUST-0824,Apex Customer 0824,SME,1,2020-11-23,Construction
+825,CUST-0825,Apex Customer 0825,SME,3,2022-12-09,Professional Services
+826,CUST-0826,Apex Customer 0826,SME,2,2022-06-04,Retail
+827,CUST-0827,Apex Customer 0827,SME,5,2022-07-15,Healthcare
+828,CUST-0828,Apex Customer 0828,SME,1,2021-05-02,Construction
+829,CUST-0829,Apex Customer 0829,SME,2,2022-10-20,Education
+830,CUST-0830,Apex Customer 0830,SME,5,2022-01-15,Hospitality
+831,CUST-0831,Apex Customer 0831,SME,3,2021-06-22,Healthcare
+832,CUST-0832,Apex Customer 0832,SME,4,2022-01-07,Professional Services
+833,CUST-0833,Apex Customer 0833,Enterprise,1,2023-05-24,Retail
+834,CUST-0834,Apex Customer 0834,SME,2,2023-02-16,Healthcare
+835,CUST-0835,Apex Customer 0835,Mid-Market,4,2019-06-11,Healthcare
+836,CUST-0836,Apex Customer 0836,Enterprise,3,2021-11-15,Education
+837,CUST-0837,Apex Customer 0837,Mid-Market,1,2023-04-27,Professional Services
+838,CUST-0838,Apex Customer 0838,Mid-Market,2,2021-12-22,Professional Services
+839,CUST-0839,Apex Customer 0839,Mid-Market,3,2022-10-03,Hospitality
+840,CUST-0840,Apex Customer 0840,SME,1,2020-01-16,Construction
+841,CUST-0841,Apex Customer 0841,Mid-Market,1,2021-04-20,Hospitality
+842,CUST-0842,Apex Customer 0842,SME,5,2020-09-27,Healthcare
+843,CUST-0843,Apex Customer 0843,Mid-Market,2,2022-02-20,Hospitality
+844,CUST-0844,Apex Customer 0844,SME,2,2019-01-09,Healthcare
+845,CUST-0845,Apex Customer 0845,SME,4,2020-02-02,Retail
+846,CUST-0846,Apex Customer 0846,Mid-Market,5,2019-09-18,Retail
+847,CUST-0847,Apex Customer 0847,Mid-Market,5,2021-05-08,Healthcare
+848,CUST-0848,Apex Customer 0848,Enterprise,5,2022-01-26,Healthcare
+849,CUST-0849,Apex Customer 0849,SME,6,2023-07-08,Retail
+850,CUST-0850,Apex Customer 0850,Mid-Market,1,2021-04-14,Hospitality
+851,CUST-0851,Apex Customer 0851,SME,5,2021-07-17,Retail
+852,CUST-0852,Apex Customer 0852,Mid-Market,1,2023-10-11,Education
+853,CUST-0853,Apex Customer 0853,Mid-Market,5,2019-02-26,Retail
+854,CUST-0854,Apex Customer 0854,SME,4,2022-04-08,Manufacturing
+855,CUST-0855,Apex Customer 0855,SME,3,2019-07-06,Hospitality
+856,CUST-0856,Apex Customer 0856,SME,2,2019-04-21,Professional Services
+857,CUST-0857,Apex Customer 0857,SME,1,2021-02-12,Manufacturing
+858,CUST-0858,Apex Customer 0858,Mid-Market,5,2020-08-18,Manufacturing
+859,CUST-0859,Apex Customer 0859,Enterprise,1,2021-03-20,Hospitality
+860,CUST-0860,Apex Customer 0860,SME,4,2021-07-15,Construction
+861,CUST-0861,Apex Customer 0861,SME,1,2019-12-19,Hospitality
+862,CUST-0862,Apex Customer 0862,Mid-Market,4,2022-03-26,Professional Services
+863,CUST-0863,Apex Customer 0863,Mid-Market,5,2020-08-09,Hospitality
+864,CUST-0864,Apex Customer 0864,Enterprise,2,2023-04-11,Manufacturing
+865,CUST-0865,Apex Customer 0865,SME,1,2019-03-24,Education
+866,CUST-0866,Apex Customer 0866,Mid-Market,2,2021-07-18,Hospitality
+867,CUST-0867,Apex Customer 0867,SME,2,2022-05-12,Manufacturing
+868,CUST-0868,Apex Customer 0868,SME,3,2023-08-21,Professional Services
+869,CUST-0869,Apex Customer 0869,Enterprise,5,2022-02-22,Construction
+870,CUST-0870,Apex Customer 0870,Enterprise,5,2020-04-16,Healthcare
+871,CUST-0871,Apex Customer 0871,SME,5,2023-11-16,Hospitality
+872,CUST-0872,Apex Customer 0872,SME,4,2021-01-01,Hospitality
+873,CUST-0873,Apex Customer 0873,Mid-Market,4,2022-06-19,Construction
+874,CUST-0874,Apex Customer 0874,SME,5,2022-07-28,Construction
+875,CUST-0875,Apex Customer 0875,Mid-Market,5,2022-07-10,Construction
+876,CUST-0876,Apex Customer 0876,SME,3,2019-10-10,Professional Services
+877,CUST-0877,Apex Customer 0877,SME,3,2021-11-21,Professional Services
+878,CUST-0878,Apex Customer 0878,Mid-Market,6,2022-01-08,Hospitality
+879,CUST-0879,Apex Customer 0879,Enterprise,6,2022-12-28,Manufacturing
+880,CUST-0880,Apex Customer 0880,Mid-Market,5,2022-03-17,Professional Services
+881,CUST-0881,Apex Customer 0881,SME,4,2022-10-17,Hospitality
+882,CUST-0882,Apex Customer 0882,SME,2,2022-07-22,Construction
+883,CUST-0883,Apex Customer 0883,SME,5,2021-08-22,Manufacturing
+884,CUST-0884,Apex Customer 0884,SME,1,2022-01-03,Retail
+885,CUST-0885,Apex Customer 0885,SME,5,2022-05-14,Education
+886,CUST-0886,Apex Customer 0886,Mid-Market,1,2021-08-09,Education
+887,CUST-0887,Apex Customer 0887,SME,3,2019-11-27,Education
+888,CUST-0888,Apex Customer 0888,SME,5,2020-11-20,Manufacturing
+889,CUST-0889,Apex Customer 0889,SME,4,2020-03-11,Healthcare
+890,CUST-0890,Apex Customer 0890,Enterprise,6,2023-01-05,Hospitality
+891,CUST-0891,Apex Customer 0891,Mid-Market,4,2022-11-20,Education
+892,CUST-0892,Apex Customer 0892,SME,6,2022-08-18,Professional Services
+893,CUST-0893,Apex Customer 0893,SME,4,2023-07-03,Education
+894,CUST-0894,Apex Customer 0894,Mid-Market,5,2019-05-21,Construction
+895,CUST-0895,Apex Customer 0895,Mid-Market,2,2022-04-07,Retail
+896,CUST-0896,Apex Customer 0896,SME,2,2021-04-20,Manufacturing
+897,CUST-0897,Apex Customer 0897,Mid-Market,1,2023-09-24,Construction
+898,CUST-0898,Apex Customer 0898,Mid-Market,6,2023-09-04,Education
+899,CUST-0899,Apex Customer 0899,Mid-Market,6,2023-10-24,Education
+900,CUST-0900,Apex Customer 0900,SME,5,2022-10-24,Manufacturing
+901,CUST-0901,Apex Customer 0901,SME,5,2023-12-05,Professional Services
+902,CUST-0902,Apex Customer 0902,Mid-Market,3,2020-09-22,Retail
+903,CUST-0903,Apex Customer 0903,SME,1,2020-12-05,Hospitality
+904,CUST-0904,Apex Customer 0904,SME,1,2021-03-26,Healthcare
+905,CUST-0905,Apex Customer 0905,SME,1,2022-12-24,Education
+906,CUST-0906,Apex Customer 0906,SME,1,2020-10-15,Retail
+907,CUST-0907,Apex Customer 0907,SME,5,2021-02-14,Professional Services
+908,CUST-0908,Apex Customer 0908,Mid-Market,5,2021-04-01,Hospitality
+909,CUST-0909,Apex Customer 0909,SME,2,2023-12-04,Healthcare
+910,CUST-0910,Apex Customer 0910,Mid-Market,5,2019-01-25,Manufacturing
+911,CUST-0911,Apex Customer 0911,SME,2,2022-07-09,Retail
+912,CUST-0912,Apex Customer 0912,SME,5,2022-06-05,Manufacturing
+913,CUST-0913,Apex Customer 0913,SME,3,2019-06-08,Hospitality
+914,CUST-0914,Apex Customer 0914,SME,2,2020-04-25,Construction
+915,CUST-0915,Apex Customer 0915,Enterprise,1,2019-06-08,Manufacturing
+916,CUST-0916,Apex Customer 0916,SME,4,2022-02-16,Professional Services
+917,CUST-0917,Apex Customer 0917,SME,5,2023-04-24,Manufacturing
+918,CUST-0918,Apex Customer 0918,SME,1,2021-04-04,Hospitality
+919,CUST-0919,Apex Customer 0919,Enterprise,1,2019-11-17,Manufacturing
+920,CUST-0920,Apex Customer 0920,Enterprise,4,2022-05-26,Hospitality
+921,CUST-0921,Apex Customer 0921,Mid-Market,3,2022-06-08,Hospitality
+922,CUST-0922,Apex Customer 0922,SME,5,2023-05-15,Manufacturing
+923,CUST-0923,Apex Customer 0923,Mid-Market,1,2021-03-11,Manufacturing
+924,CUST-0924,Apex Customer 0924,Mid-Market,2,2022-05-12,Construction
+925,CUST-0925,Apex Customer 0925,SME,1,2021-04-18,Construction
+926,CUST-0926,Apex Customer 0926,SME,2,2020-10-01,Retail
+927,CUST-0927,Apex Customer 0927,Mid-Market,3,2021-11-23,Retail
+928,CUST-0928,Apex Customer 0928,Mid-Market,5,2022-03-16,Construction
+929,CUST-0929,Apex Customer 0929,SME,6,2022-05-18,Construction
+930,CUST-0930,Apex Customer 0930,SME,4,2020-10-15,Construction
+931,CUST-0931,Apex Customer 0931,Mid-Market,4,2019-04-11,Professional Services
+932,CUST-0932,Apex Customer 0932,SME,3,2020-07-21,Professional Services
+933,CUST-0933,Apex Customer 0933,Mid-Market,6,2023-02-13,Construction
+934,CUST-0934,Apex Customer 0934,Mid-Market,5,2022-03-06,Retail
+935,CUST-0935,Apex Customer 0935,Mid-Market,5,2022-09-25,Hospitality
+936,CUST-0936,Apex Customer 0936,SME,3,2022-08-26,Construction
+937,CUST-0937,Apex Customer 0937,SME,4,2022-01-09,Retail
+938,CUST-0938,Apex Customer 0938,Enterprise,2,2021-11-01,Hospitality
+939,CUST-0939,Apex Customer 0939,Mid-Market,5,2020-09-22,Professional Services
+940,CUST-0940,Apex Customer 0940,SME,5,2022-08-05,Healthcare
+941,CUST-0941,Apex Customer 0941,Enterprise,5,2021-01-06,Construction
+942,CUST-0942,Apex Customer 0942,SME,5,2023-08-11,Hospitality
+943,CUST-0943,Apex Customer 0943,SME,1,2020-04-20,Education
+944,CUST-0944,Apex Customer 0944,SME,2,2023-05-10,Manufacturing
+945,CUST-0945,Apex Customer 0945,SME,6,2023-04-05,Retail
+946,CUST-0946,Apex Customer 0946,SME,2,2023-04-13,Construction
+947,CUST-0947,Apex Customer 0947,Mid-Market,1,2020-12-22,Construction
+948,CUST-0948,Apex Customer 0948,SME,1,2022-08-17,Hospitality
+949,CUST-0949,Apex Customer 0949,SME,5,2021-06-18,Retail
+950,CUST-0950,Apex Customer 0950,Mid-Market,3,2021-06-09,Healthcare
+951,CUST-0951,Apex Customer 0951,SME,1,2020-12-21,Hospitality
+952,CUST-0952,Apex Customer 0952,SME,4,2020-04-20,Education
+953,CUST-0953,Apex Customer 0953,SME,4,2021-04-16,Construction
+954,CUST-0954,Apex Customer 0954,Mid-Market,4,2021-02-10,Retail
+955,CUST-0955,Apex Customer 0955,Mid-Market,5,2019-08-16,Hospitality
+956,CUST-0956,Apex Customer 0956,Enterprise,5,2021-12-06,Healthcare
+957,CUST-0957,Apex Customer 0957,SME,1,2022-12-26,Education
+958,CUST-0958,Apex Customer 0958,SME,4,2021-10-19,Hospitality
+959,CUST-0959,Apex Customer 0959,SME,5,2022-02-16,Healthcare
+960,CUST-0960,Apex Customer 0960,Enterprise,1,2023-07-05,Retail
+961,CUST-0961,Apex Customer 0961,SME,5,2023-03-02,Hospitality
+962,CUST-0962,Apex Customer 0962,SME,1,2023-07-23,Manufacturing
+963,CUST-0963,Apex Customer 0963,SME,2,2022-04-27,Hospitality
+964,CUST-0964,Apex Customer 0964,Mid-Market,5,2019-01-14,Healthcare
+965,CUST-0965,Apex Customer 0965,SME,4,2021-09-20,Hospitality
+966,CUST-0966,Apex Customer 0966,SME,3,2023-06-27,Healthcare
+967,CUST-0967,Apex Customer 0967,Enterprise,1,2023-12-07,Education
+968,CUST-0968,Apex Customer 0968,SME,3,2020-08-01,Manufacturing
+969,CUST-0969,Apex Customer 0969,SME,4,2022-09-09,Retail
+970,CUST-0970,Apex Customer 0970,SME,5,2021-10-22,Retail
+971,CUST-0971,Apex Customer 0971,Enterprise,2,2022-03-07,Professional Services
+972,CUST-0972,Apex Customer 0972,SME,4,2022-10-08,Education
+973,CUST-0973,Apex Customer 0973,Mid-Market,1,2022-07-27,Education
+974,CUST-0974,Apex Customer 0974,SME,1,2023-09-20,Construction
+975,CUST-0975,Apex Customer 0975,Mid-Market,2,2020-07-09,Healthcare
+976,CUST-0976,Apex Customer 0976,Mid-Market,2,2021-02-16,Professional Services
+977,CUST-0977,Apex Customer 0977,Mid-Market,1,2023-02-23,Construction
+978,CUST-0978,Apex Customer 0978,SME,6,2022-06-03,Healthcare
+979,CUST-0979,Apex Customer 0979,SME,1,2023-07-28,Retail
+980,CUST-0980,Apex Customer 0980,Mid-Market,4,2019-07-22,Retail
+981,CUST-0981,Apex Customer 0981,Mid-Market,5,2022-08-26,Retail
+982,CUST-0982,Apex Customer 0982,Mid-Market,6,2022-04-28,Construction
+983,CUST-0983,Apex Customer 0983,SME,5,2023-05-08,Retail
+984,CUST-0984,Apex Customer 0984,Enterprise,2,2022-12-07,Education
+985,CUST-0985,Apex Customer 0985,SME,3,2022-03-03,Professional Services
+986,CUST-0986,Apex Customer 0986,Mid-Market,3,2022-01-21,Hospitality
+987,CUST-0987,Apex Customer 0987,Mid-Market,2,2023-11-01,Professional Services
+988,CUST-0988,Apex Customer 0988,SME,2,2023-03-12,Manufacturing
+989,CUST-0989,Apex Customer 0989,Mid-Market,1,2020-01-13,Professional Services
+990,CUST-0990,Apex Customer 0990,SME,4,2022-11-21,Construction
+991,CUST-0991,Apex Customer 0991,SME,2,2021-11-20,Hospitality
+992,CUST-0992,Apex Customer 0992,SME,1,2023-02-23,Construction
+993,CUST-0993,Apex Customer 0993,SME,2,2021-11-18,Professional Services
+994,CUST-0994,Apex Customer 0994,SME,2,2023-10-18,Hospitality
+995,CUST-0995,Apex Customer 0995,Mid-Market,1,2020-09-25,Healthcare
+996,CUST-0996,Apex Customer 0996,Mid-Market,4,2023-08-24,Construction
+997,CUST-0997,Apex Customer 0997,SME,4,2021-05-23,Retail
+998,CUST-0998,Apex Customer 0998,Enterprise,4,2021-02-17,Construction
+999,CUST-0999,Apex Customer 0999,Enterprise,5,2022-05-22,Construction
+1000,CUST-1000,Apex Customer 1000,Mid-Market,3,2022-03-15,Professional Services
+1001,CUST-1001,Apex Customer 1001,SME,4,2022-06-05,Professional Services
+1002,CUST-1002,Apex Customer 1002,Mid-Market,6,2023-08-12,Construction
+1003,CUST-1003,Apex Customer 1003,Mid-Market,1,2022-04-23,Retail
+1004,CUST-1004,Apex Customer 1004,Mid-Market,2,2021-05-07,Construction
+1005,CUST-1005,Apex Customer 1005,SME,4,2022-06-02,Construction
+1006,CUST-1006,Apex Customer 1006,SME,1,2020-03-27,Education
+1007,CUST-1007,Apex Customer 1007,Mid-Market,2,2021-03-15,Healthcare
+1008,CUST-1008,Apex Customer 1008,Mid-Market,1,2022-03-27,Hospitality
+1009,CUST-1009,Apex Customer 1009,SME,5,2022-07-25,Education
+1010,CUST-1010,Apex Customer 1010,SME,1,2021-06-09,Healthcare
+1011,CUST-1011,Apex Customer 1011,Enterprise,1,2022-07-03,Healthcare
+1012,CUST-1012,Apex Customer 1012,Enterprise,2,2023-08-09,Professional Services
+1013,CUST-1013,Apex Customer 1013,SME,3,2021-05-03,Professional Services
+1014,CUST-1014,Apex Customer 1014,Enterprise,1,2021-03-18,Hospitality
+1015,CUST-1015,Apex Customer 1015,SME,1,2023-10-08,Professional Services
+1016,CUST-1016,Apex Customer 1016,Mid-Market,5,2020-03-05,Healthcare
+1017,CUST-1017,Apex Customer 1017,Enterprise,6,2019-05-07,Manufacturing
+1018,CUST-1018,Apex Customer 1018,Mid-Market,5,2019-09-25,Construction
+1019,CUST-1019,Apex Customer 1019,SME,6,2019-11-13,Education
+1020,CUST-1020,Apex Customer 1020,Mid-Market,4,2022-09-01,Retail
+1021,CUST-1021,Apex Customer 1021,Enterprise,6,2021-02-24,Education
+1022,CUST-1022,Apex Customer 1022,SME,3,2021-10-25,Healthcare
+1023,CUST-1023,Apex Customer 1023,SME,5,2022-05-21,Healthcare
+1024,CUST-1024,Apex Customer 1024,SME,3,2021-11-19,Education
+1025,CUST-1025,Apex Customer 1025,SME,2,2020-12-06,Construction
+1026,CUST-1026,Apex Customer 1026,SME,5,2022-06-21,Construction
+1027,CUST-1027,Apex Customer 1027,SME,6,2021-01-06,Healthcare
+1028,CUST-1028,Apex Customer 1028,Mid-Market,3,2022-07-12,Retail
+1029,CUST-1029,Apex Customer 1029,Enterprise,3,2021-05-18,Professional Services
+1030,CUST-1030,Apex Customer 1030,SME,5,2022-03-21,Manufacturing
+1031,CUST-1031,Apex Customer 1031,SME,1,2023-03-17,Retail
+1032,CUST-1032,Apex Customer 1032,Mid-Market,3,2023-01-27,Hospitality
+1033,CUST-1033,Apex Customer 1033,SME,2,2022-02-20,Construction
+1034,CUST-1034,Apex Customer 1034,SME,2,2022-01-06,Manufacturing
+1035,CUST-1035,Apex Customer 1035,SME,4,2023-06-05,Manufacturing
+1036,CUST-1036,Apex Customer 1036,Mid-Market,6,2020-10-26,Retail
+1037,CUST-1037,Apex Customer 1037,SME,4,2022-10-02,Hospitality
+1038,CUST-1038,Apex Customer 1038,SME,1,2023-04-04,Manufacturing
+1039,CUST-1039,Apex Customer 1039,SME,4,2023-08-07,Professional Services
+1040,CUST-1040,Apex Customer 1040,Enterprise,3,2022-03-26,Construction
+1041,CUST-1041,Apex Customer 1041,Enterprise,3,2020-09-07,Healthcare
+1042,CUST-1042,Apex Customer 1042,SME,2,2023-12-25,Retail
+1043,CUST-1043,Apex Customer 1043,SME,5,2021-09-25,Healthcare
+1044,CUST-1044,Apex Customer 1044,Mid-Market,6,2022-05-20,Retail
+1045,CUST-1045,Apex Customer 1045,Mid-Market,5,2021-08-14,Professional Services
+1046,CUST-1046,Apex Customer 1046,SME,5,2023-09-19,Professional Services
+1047,CUST-1047,Apex Customer 1047,Mid-Market,3,2019-07-10,Retail
+1048,CUST-1048,Apex Customer 1048,Mid-Market,4,2023-01-12,Hospitality
+1049,CUST-1049,Apex Customer 1049,SME,2,2022-11-11,Healthcare
+1050,CUST-1050,Apex Customer 1050,SME,3,2021-07-24,Professional Services
+1051,CUST-1051,Apex Customer 1051,Enterprise,1,2019-07-19,Healthcare
+1052,CUST-1052,Apex Customer 1052,SME,2,2023-05-07,Hospitality
+1053,CUST-1053,Apex Customer 1053,SME,2,2021-07-17,Hospitality
+1054,CUST-1054,Apex Customer 1054,SME,4,2021-12-02,Professional Services
+1055,CUST-1055,Apex Customer 1055,SME,6,2019-04-09,Hospitality
+1056,CUST-1056,Apex Customer 1056,Enterprise,5,2023-06-08,Professional Services
+1057,CUST-1057,Apex Customer 1057,Mid-Market,1,2020-09-03,Retail
+1058,CUST-1058,Apex Customer 1058,SME,1,2021-03-19,Hospitality
+1059,CUST-1059,Apex Customer 1059,Mid-Market,1,2022-09-23,Professional Services
+1060,CUST-1060,Apex Customer 1060,Mid-Market,1,2023-10-06,Retail
+1061,CUST-1061,Apex Customer 1061,SME,3,2019-07-12,Hospitality
+1062,CUST-1062,Apex Customer 1062,Mid-Market,1,2021-09-11,Education
+1063,CUST-1063,Apex Customer 1063,Enterprise,5,2021-03-14,Construction
+1064,CUST-1064,Apex Customer 1064,SME,2,2023-04-01,Retail
+1065,CUST-1065,Apex Customer 1065,SME,1,2021-03-19,Education
+1066,CUST-1066,Apex Customer 1066,SME,3,2019-08-08,Hospitality
+1067,CUST-1067,Apex Customer 1067,SME,4,2019-11-13,Education
+1068,CUST-1068,Apex Customer 1068,SME,5,2022-06-21,Manufacturing
+1069,CUST-1069,Apex Customer 1069,SME,5,2020-01-03,Professional Services
+1070,CUST-1070,Apex Customer 1070,SME,2,2022-06-02,Construction
+1071,CUST-1071,Apex Customer 1071,SME,2,2021-10-12,Construction
+1072,CUST-1072,Apex Customer 1072,Mid-Market,5,2020-06-10,Manufacturing
+1073,CUST-1073,Apex Customer 1073,Mid-Market,1,2021-01-28,Professional Services
+1074,CUST-1074,Apex Customer 1074,Mid-Market,5,2021-04-24,Healthcare
+1075,CUST-1075,Apex Customer 1075,Mid-Market,5,2019-01-14,Manufacturing
+1076,CUST-1076,Apex Customer 1076,Enterprise,4,2023-10-13,Professional Services
+1077,CUST-1077,Apex Customer 1077,Mid-Market,1,2023-01-08,Retail
+1078,CUST-1078,Apex Customer 1078,SME,5,2020-11-25,Professional Services
+1079,CUST-1079,Apex Customer 1079,SME,5,2019-12-16,Manufacturing
+1080,CUST-1080,Apex Customer 1080,Enterprise,4,2020-07-04,Construction
+1081,CUST-1081,Apex Customer 1081,SME,3,2022-01-01,Manufacturing
+1082,CUST-1082,Apex Customer 1082,SME,5,2023-09-03,Construction
+1083,CUST-1083,Apex Customer 1083,Mid-Market,1,2023-11-25,Healthcare
+1084,CUST-1084,Apex Customer 1084,SME,4,2022-04-03,Professional Services
+1085,CUST-1085,Apex Customer 1085,SME,4,2022-11-27,Professional Services
+1086,CUST-1086,Apex Customer 1086,SME,1,2019-10-05,Retail
+1087,CUST-1087,Apex Customer 1087,Enterprise,5,2021-02-14,Professional Services
+1088,CUST-1088,Apex Customer 1088,Mid-Market,4,2023-04-18,Professional Services
+1089,CUST-1089,Apex Customer 1089,SME,2,2020-12-22,Retail
+1090,CUST-1090,Apex Customer 1090,SME,2,2020-02-28,Retail
+1091,CUST-1091,Apex Customer 1091,SME,1,2021-10-11,Construction
+1092,CUST-1092,Apex Customer 1092,SME,2,2022-12-02,Professional Services
+1093,CUST-1093,Apex Customer 1093,Mid-Market,5,2023-03-19,Construction
+1094,CUST-1094,Apex Customer 1094,Enterprise,3,2020-08-04,Construction
+1095,CUST-1095,Apex Customer 1095,SME,5,2023-06-07,Manufacturing
+1096,CUST-1096,Apex Customer 1096,SME,3,2022-05-11,Education
+1097,CUST-1097,Apex Customer 1097,SME,2,2023-10-08,Hospitality
+1098,CUST-1098,Apex Customer 1098,Enterprise,3,2020-11-04,Professional Services
+1099,CUST-1099,Apex Customer 1099,Mid-Market,5,2021-04-12,Healthcare
+1100,CUST-1100,Apex Customer 1100,Enterprise,4,2022-09-15,Retail
+1101,CUST-1101,Apex Customer 1101,SME,1,2019-09-05,Hospitality
+1102,CUST-1102,Apex Customer 1102,Enterprise,1,2021-03-01,Retail
+1103,CUST-1103,Apex Customer 1103,SME,3,2020-09-13,Healthcare
+1104,CUST-1104,Apex Customer 1104,SME,1,2020-10-17,Manufacturing
+1105,CUST-1105,Apex Customer 1105,Mid-Market,3,2023-04-01,Professional Services
+1106,CUST-1106,Apex Customer 1106,SME,6,2022-01-11,Manufacturing
+1107,CUST-1107,Apex Customer 1107,Mid-Market,4,2023-09-21,Construction
+1108,CUST-1108,Apex Customer 1108,SME,2,2019-04-17,Construction
+1109,CUST-1109,Apex Customer 1109,SME,2,2020-07-15,Retail
+1110,CUST-1110,Apex Customer 1110,SME,2,2022-03-21,Manufacturing
+1111,CUST-1111,Apex Customer 1111,Enterprise,5,2020-10-16,Professional Services
+1112,CUST-1112,Apex Customer 1112,SME,5,2021-12-08,Retail
+1113,CUST-1113,Apex Customer 1113,Enterprise,6,2020-02-12,Manufacturing
+1114,CUST-1114,Apex Customer 1114,SME,2,2022-05-12,Retail
+1115,CUST-1115,Apex Customer 1115,SME,1,2020-11-10,Construction
+1116,CUST-1116,Apex Customer 1116,Mid-Market,4,2022-10-15,Manufacturing
+1117,CUST-1117,Apex Customer 1117,Mid-Market,2,2019-06-11,Education
+1118,CUST-1118,Apex Customer 1118,Mid-Market,6,2021-01-20,Manufacturing
+1119,CUST-1119,Apex Customer 1119,Mid-Market,4,2022-01-13,Hospitality
+1120,CUST-1120,Apex Customer 1120,Mid-Market,3,2019-09-23,Healthcare
+1121,CUST-1121,Apex Customer 1121,SME,5,2022-10-24,Manufacturing
+1122,CUST-1122,Apex Customer 1122,Mid-Market,1,2021-12-19,Construction
+1123,CUST-1123,Apex Customer 1123,Mid-Market,3,2020-03-14,Education
+1124,CUST-1124,Apex Customer 1124,SME,2,2021-05-12,Retail
+1125,CUST-1125,Apex Customer 1125,Mid-Market,4,2021-11-15,Healthcare
+1126,CUST-1126,Apex Customer 1126,Mid-Market,2,2020-06-02,Healthcare
+1127,CUST-1127,Apex Customer 1127,SME,2,2021-05-25,Healthcare
+1128,CUST-1128,Apex Customer 1128,SME,2,2021-09-02,Hospitality
+1129,CUST-1129,Apex Customer 1129,SME,1,2020-03-25,Hospitality
+1130,CUST-1130,Apex Customer 1130,Mid-Market,3,2020-03-05,Education
+1131,CUST-1131,Apex Customer 1131,SME,5,2022-07-16,Hospitality
+1132,CUST-1132,Apex Customer 1132,SME,2,2019-07-21,Construction
+1133,CUST-1133,Apex Customer 1133,Enterprise,6,2020-02-04,Retail
+1134,CUST-1134,Apex Customer 1134,Enterprise,3,2022-09-02,Retail
+1135,CUST-1135,Apex Customer 1135,SME,1,2023-03-23,Construction
+1136,CUST-1136,Apex Customer 1136,SME,3,2019-11-21,Hospitality
+1137,CUST-1137,Apex Customer 1137,SME,5,2023-02-27,Retail
+1138,CUST-1138,Apex Customer 1138,SME,4,2019-12-18,Retail
+1139,CUST-1139,Apex Customer 1139,Mid-Market,4,2021-10-25,Retail
+1140,CUST-1140,Apex Customer 1140,Mid-Market,1,2020-09-20,Construction
+1141,CUST-1141,Apex Customer 1141,Mid-Market,4,2019-08-27,Healthcare
+1142,CUST-1142,Apex Customer 1142,Mid-Market,2,2023-11-05,Hospitality
+1143,CUST-1143,Apex Customer 1143,SME,6,2023-08-06,Healthcare
+1144,CUST-1144,Apex Customer 1144,Mid-Market,1,2022-08-12,Retail
+1145,CUST-1145,Apex Customer 1145,SME,5,2020-09-10,Construction
+1146,CUST-1146,Apex Customer 1146,SME,4,2023-09-11,Hospitality
+1147,CUST-1147,Apex Customer 1147,Mid-Market,5,2023-12-19,Education
+1148,CUST-1148,Apex Customer 1148,Mid-Market,4,2020-10-11,Education
+1149,CUST-1149,Apex Customer 1149,SME,5,2020-01-20,Education
+1150,CUST-1150,Apex Customer 1150,SME,4,2021-03-16,Manufacturing
+1151,CUST-1151,Apex Customer 1151,Mid-Market,1,2021-02-17,Retail
+1152,CUST-1152,Apex Customer 1152,Mid-Market,1,2021-10-05,Professional Services
+1153,CUST-1153,Apex Customer 1153,Enterprise,5,2021-12-17,Hospitality
+1154,CUST-1154,Apex Customer 1154,SME,1,2022-12-01,Education
+1155,CUST-1155,Apex Customer 1155,SME,5,2020-01-19,Retail
+1156,CUST-1156,Apex Customer 1156,Mid-Market,5,2022-05-12,Education
+1157,CUST-1157,Apex Customer 1157,Enterprise,2,2023-03-25,Hospitality
+1158,CUST-1158,Apex Customer 1158,SME,2,2023-03-11,Retail
+1159,CUST-1159,Apex Customer 1159,SME,6,2020-08-16,Education
+1160,CUST-1160,Apex Customer 1160,SME,1,2020-06-22,Hospitality
+1161,CUST-1161,Apex Customer 1161,Mid-Market,1,2021-03-25,Education
+1162,CUST-1162,Apex Customer 1162,Mid-Market,6,2022-12-15,Education
+1163,CUST-1163,Apex Customer 1163,SME,4,2022-12-26,Hospitality
+1164,CUST-1164,Apex Customer 1164,Enterprise,6,2023-11-08,Retail
+1165,CUST-1165,Apex Customer 1165,Mid-Market,3,2022-12-25,Construction
+1166,CUST-1166,Apex Customer 1166,Mid-Market,3,2022-06-24,Manufacturing
+1167,CUST-1167,Apex Customer 1167,SME,4,2022-12-25,Professional Services
+1168,CUST-1168,Apex Customer 1168,Enterprise,1,2023-11-02,Education
+1169,CUST-1169,Apex Customer 1169,Mid-Market,4,2023-07-28,Manufacturing
+1170,CUST-1170,Apex Customer 1170,SME,2,2023-02-21,Manufacturing
+1171,CUST-1171,Apex Customer 1171,SME,4,2021-06-13,Healthcare
+1172,CUST-1172,Apex Customer 1172,SME,2,2023-03-10,Construction
+1173,CUST-1173,Apex Customer 1173,Mid-Market,5,2020-04-03,Hospitality
+1174,CUST-1174,Apex Customer 1174,SME,2,2022-06-04,Hospitality
+1175,CUST-1175,Apex Customer 1175,Enterprise,3,2022-10-10,Healthcare
+1176,CUST-1176,Apex Customer 1176,Mid-Market,4,2020-06-20,Construction
+1177,CUST-1177,Apex Customer 1177,Mid-Market,4,2021-05-19,Professional Services
+1178,CUST-1178,Apex Customer 1178,SME,2,2021-02-08,Construction
+1179,CUST-1179,Apex Customer 1179,SME,6,2023-01-28,Hospitality
+1180,CUST-1180,Apex Customer 1180,Mid-Market,1,2023-07-23,Construction
+1181,CUST-1181,Apex Customer 1181,SME,3,2023-02-01,Professional Services
+1182,CUST-1182,Apex Customer 1182,SME,5,2020-07-09,Healthcare
+1183,CUST-1183,Apex Customer 1183,Mid-Market,1,2023-05-04,Education
+1184,CUST-1184,Apex Customer 1184,SME,5,2022-08-27,Manufacturing
+1185,CUST-1185,Apex Customer 1185,SME,2,2021-10-20,Education
+1186,CUST-1186,Apex Customer 1186,SME,5,2019-08-01,Construction
+1187,CUST-1187,Apex Customer 1187,SME,2,2020-09-23,Healthcare
+1188,CUST-1188,Apex Customer 1188,SME,6,2022-11-06,Healthcare
+1189,CUST-1189,Apex Customer 1189,Enterprise,3,2022-04-21,Education
+1190,CUST-1190,Apex Customer 1190,Mid-Market,5,2020-05-09,Professional Services
+1191,CUST-1191,Apex Customer 1191,Enterprise,6,2023-11-11,Healthcare
+1192,CUST-1192,Apex Customer 1192,Mid-Market,1,2021-10-10,Education
+1193,CUST-1193,Apex Customer 1193,SME,4,2020-04-20,Healthcare
+1194,CUST-1194,Apex Customer 1194,Mid-Market,1,2021-02-26,Healthcare
+1195,CUST-1195,Apex Customer 1195,Mid-Market,4,2019-05-02,Hospitality
+1196,CUST-1196,Apex Customer 1196,Mid-Market,3,2021-05-27,Hospitality
+1197,CUST-1197,Apex Customer 1197,Mid-Market,6,2022-05-20,Healthcare
+1198,CUST-1198,Apex Customer 1198,Mid-Market,1,2021-09-14,Manufacturing
+1199,CUST-1199,Apex Customer 1199,SME,3,2020-10-20,Professional Services
+1200,CUST-1200,Apex Customer 1200,Mid-Market,5,2023-04-06,Hospitality

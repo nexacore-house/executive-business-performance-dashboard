@@ -1,0 +1,38 @@
+Table,Column,Recommended Power BI Type,Description
+FactSales,SalesLineID,Whole number,Unique transaction-line identifier
+FactSales,OrderID,Text,Order identifier shared by all lines in the same order
+FactSales,OrderDateKey,Whole number,YYYYMMDD key to DimDate
+FactSales,OrderDate,Date,Transaction date
+FactSales,CustomerKey,Whole number,Foreign key to DimCustomer
+FactSales,ProductKey,Whole number,Foreign key to DimProduct
+FactSales,RegionKey,Whole number,Foreign key to DimRegion
+FactSales,ChannelKey,Whole number,Foreign key to DimChannel
+FactSales,Quantity,Whole number,Units sold on the order line
+FactSales,UnitPrice,Decimal/Currency,Selling price per unit before line discount
+FactSales,UnitCost,Decimal/Currency,Cost per unit
+FactSales,DiscountAmount,Decimal/Currency,Total discount applied to the order line
+FactTargets,TargetID,Whole number,Unique target row identifier
+FactTargets,MonthStartDate,Date,First day of target month
+FactTargets,RegionKey,Whole number,Target region
+FactTargets,ChannelKey,Whole number,Target sales channel
+FactTargets,RevenueTarget,Decimal/Currency,Monthly revenue plan
+FactTargets,ProfitTarget,Decimal/Currency,Monthly gross profit plan
+DimCustomer,CustomerKey,Whole number,Customer surrogate key
+DimCustomer,CustomerID,Text,Business-facing customer identifier
+DimCustomer,CustomerName,Text,Synthetic company label
+DimCustomer,CustomerSegment,Text,"SME, Mid-Market or Enterprise"
+DimCustomer,RegionKey,Whole number,Customer's commercial region
+DimCustomer,CustomerSince,Date,Start date of customer relationship
+DimCustomer,Industry,Text,Customer industry
+DimProduct,ProductKey,Whole number,Product surrogate key
+DimProduct,ProductID,Text,Business-facing product identifier
+DimProduct,ProductName,Text,Synthetic product label
+DimProduct,Category,Text,Executive product category
+DimProduct,Subcategory,Text,Product subcategory
+DimProduct,StandardPrice,Decimal/Currency,Reference list price
+DimProduct,StandardCost,Decimal/Currency,Reference standard cost
+DimRegion,RegionKey,Whole number,Region key
+DimRegion,Region,Text,Commercial sales region
+DimRegion,RegionGroup,Text,Country grouping
+DimChannel,ChannelKey,Whole number,Channel key
+DimChannel,Channel,Text,"Direct Sales, Online or Partner"
