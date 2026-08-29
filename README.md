@@ -345,7 +345,7 @@ Any measurable improvement in Revenue, Margin, reporting time or management perf
 executive-business-performance-dashboard/
 │
 ├── Data/
-├── Powerbi/
+├── Power_Bi/
 │   └── Executive_Business_Performance_Dashboard.pbix
 ├── documentation/
 │   ├── KPI-Dictionary.md
