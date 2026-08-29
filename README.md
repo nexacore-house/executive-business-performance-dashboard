@@ -64,25 +64,25 @@ Management requires a consolidated reporting solution for:
 
 ### Executive Overview
 
-![Executive Overview](screenshots/Executive_Overview.png)
+![Executive Overview](Screenshots/Executive_Overview.png)
 
 Provides a concise management view of headline financial KPIs, target performance, regional variance, commercial drivers and the overall management position.
 
 ### Performance Analysis
 
-![Performance Analysis](screenshots/Performance_Analysis.png)
+![Performance Analysis](Screenshots/Performance_Analysis.png)
 
 Explores the drivers behind headline performance through monthly growth, channel analysis, product-category contribution and commercial activity.
 
 ### Exceptions & Management Attention
 
-![Exceptions and Management Attention](screenshots/Exceptions_Management_Attention.png)
+![Exceptions and Management Attention](Screenshots/Exceptions_Management_Attention.png)
 
 Surfaces material regional and profitability exceptions to help management prioritise investigation.
 
 ### Regional Drill-Through
 
-![Regional Drill Through](screenshots/London_Region_Drillthrough.png)
+![Regional Drill Through](Screenshots/London_Region_Drillthrough.png)
 
 Allows users to move from an identified regional exception into detailed monthly, channel and category analysis.
 
@@ -121,7 +121,7 @@ A complete definition of the KPI framework is available in:
 
 The solution uses a dimensional model designed to support reusable business calculations and predictable filtering.
 
-![Data Model](screenshots/Data_Model.png)
+![Data Model](Screenshots/Data_Model.png)
 
 The model separates transactional business activity, target data and descriptive dimensions.
 
@@ -178,7 +178,7 @@ Higher-level measures supporting executive headlines, Growth Quality, management
 
 Technical measures retained to test target context and semantic-model behaviour.
 
-![DAX Target Validation](screenshots/Dax_Target_Validation.png)
+![DAX Target Validation](Screenshots/Dax_Target_Validation.png)
 
 Detailed measure documentation is available in:
 
@@ -344,22 +344,21 @@ Any measurable improvement in Revenue, Margin, reporting time or management perf
 
 executive-business-performance-dashboard/
 │
-├── data/
-├── powerbi/
+├── Data/
+├── Powerbi/
 │   └── Executive_Business_Performance_Dashboard.pbix
 ├── documentation/
 │   ├── KPI-Dictionary.md
 │   ├── DAX-Measure-Reference.md
 │   ├── Report-Page-Specification.md
 │   └── Validation-and-QA.md
-├── screenshots/
-│   ├── 01-executive-overview.png
-│   ├── 02-performance-analysis.png
-│   ├── 03-exceptions-management-attention.png
-│   ├── 04-london-region-drillthrough.png
-│   ├── 05-data-model.png
-│   ├── 06-dax-target-validation.png
-│   └── 07-validation-evidence.png
+├── Screenshots/
+│   ├── Executive_Overview.png
+│   ├── Performance_Analysis.png
+│   ├── Exceptions_Management_Attention.png
+│   ├── London_Region_Drillthrough.png
+│   ├── Data_Model.png
+│   ├── Dax_Target_Validation.png
 └── README.md
 
 ## Documentation
