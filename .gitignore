@@ -1,0 +1,16 @@
+# Power BI temporary files
+*.tmp
+*.temp
+
+# Office temporary files
+~$*
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# macOS
+.DS_Store
+
+# Editor files
+.vscode/
